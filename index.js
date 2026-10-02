@@ -8,14 +8,12 @@ $(document).ready(jqReady);
 
 
 function jqReady() {
-
 	new jBox('Modal', {
 	  attach: 'a.signup',
 	  content: $('form#signup'),
 	  maxWidth: 400
 	});
     
-
     $("footer").on("click", "a.add", function(e){
         e.preventDefault();
 
