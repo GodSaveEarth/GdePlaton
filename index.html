@@ -1,0 +1,118 @@
+
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Где Платон? — рамки системы Платон на карте</title>
+        <meta name="description" content="рамки Платона на карте">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="verify-admitad" content="56a8eecbc4" />
+        <link href="//fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+        <link href="//fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+ 
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jBox/0.4.9/jBox.min.css" />
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+        <link rel="stylesheet" href="css/editor.css">
+        
+        <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA+Pf6ADcA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIiIiIiIiIAIiIiIiIiIgAiIhIiIiIiACIiEiIiIiIAIiISIiIiIgAiIhIiIiIiACIiEREiIiIAIiISIhIiIgAiIhIiISIiACIiEiIhIiIAIiISIhIiIgAiIiERIiIiACIiIiIiIiIAIiIiIiIiIgAAAAAAAAAAD//wAAgAEAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAAD//wAA" rel="icon" type="image/x-icon" />
+
+     </head>
+
+<body style="margin:0">
+
+
+<div id="map_outer" style="height:100vh;">
+	<div id="overlay_top">
+		<div><h1>Где Платон &mdash; рамки системы Платон на карте</h1></div>
+		<div class="demo hidden">
+	    <span>Самая полная база рамок Платон &mdash; 700&nbsp;шт.<br>
+	    	<noindex>Сейчас <nobr>показаны только&nbsp;50&nbsp;рамок.</nobr></noindex><br/>
+	    	Полный доступ <b>бесплатный</b>, но&nbsp;нужно <a href="#" class="signup">получить&nbsp;пароль</a>.</span>
+		</div>
+	</div>
+  	<footer>
+  		<ul class="s hidden">
+			<li class="s">
+				<i class="fa fa-rub"></i>
+				Реклама: <span></span> 
+				<!-- <a href="#" class="aftersponsor next">еще</a> -->
+			</li>
+			<li class="s buy">
+				<a href="//goo.gl/6eWz7n" target="_new">Разместите рекламу &mdash; 100 Р</a>
+			<li>
+  		</ul>
+		<ul class="m">
+			<li><i class="fa fa-unlock-alt"></i><a href="#" class="login">Вход с паролем</a></li>
+			<li><i class="fa fa-plus-square"></i><a href="#" class="add">Предложить рамку</a></li>
+			<li style="color:grey"><i class="fa fa-life-ring" style="color:grey"></i>roman@gdeplaton.ru</li>
+		</ul>
+	</footer>
+
+  	<div id="map" style="height:100%">
+  	</div>
+
+</div>
+
+	<form id="signup" class="hidden popup form" method="get" action="//api2.ru/gdeplaton/api.php?f=signup">
+		<h2>Получить полный доступ <i class="fa fa-unlock"></i></h2>
+		<p class="result"></p>
+		<p>Доступ&nbsp;к&nbsp;сайту&nbsp;ГдеПлатон <b>бесплатный</b>, но&nbsp;<b>защищен&nbsp;паролем</b> от&nbsp;роботов, посторонних&nbsp;глаз и&nbsp;прочих&nbsp;роскомнадзоров. </p>
+		<p>Пароль вы получите через пару минут на вашу почту. </p>
+		<input name="email" type="email" placeholder="email@yandex.ru" required="1">
+		<input type="submit" class="button" value="Получить пароль"/>
+	</form>
+	<form id="login" class="hidden popup form" method="post" action="/">
+		<h2>Вход с паролем <i class="fa fa-asterisk"></i><i class="fa fa-asterisk"></i><i class="fa fa-asterisk"></i></h2>
+		<p class="result"></p>
+		<input name="password" type="password" placeholder="Пароль" required="1">
+		<input type="submit" class="button" value="Войти"/>
+		 <a href="#" class="signup">получить пароль бесплатно</a>
+	</form>
+	<form id="report" class="hidden popup form" method="get" action="//api2.ru/gdeplaton/api.php?f=report">
+		<h2>Сообщить об ошибке <i class="fa fa-exclamation-triangle"></i></h2>
+		<p class="result"></p>
+		<p>Опишите ошибку или дополните описание точки <b>999</b>:</p>
+		<textarea name="text" placeholder="Сообщение" required="1"></textarea>
+		<p>Оставьте вашу почту, если ждете ответ.</p>
+		<input name="email" type="email" placeholder="email@yandex.ru" >
+		<input name="id" type="hidden" />
+		<input type="submit" class="button" value="Отправить"/>
+	</form>		
+	<form id="addIntro" class="hidden popup form">
+		<h2>Предложить новую точку</h2>
+		<ol><li> Перетащите метку в нужное место карты. 
+			<li>Увеличьте масштаб карты, чтобы указать точнее.
+			<li> Нажмите на свою метку, чтобы добавить описание рамки и закончить.
+			<li> <b>Не присылайте данные о машинах Платон (мобильных постах) — они не нужны!</b>		
+		</ol>
+		<a class="button close" href="#"/>Все понятно, приступить</a>
+	</form>			
+	<form id="add" class="hidden popup form" method="get" action="//api2.ru/gdeplaton/api.php?f=addPoint">
+		<h2>Опишите ориентиры <i class="fa fa-globe"></i></h2>
+		<p class="result"></p>
+		<p class=c><span>Координаты вашей точки: <c style="color:grey"></c></p>
+		<p class=d><span>Отправляйте рамку, только если уверены в ней.</span> Напишите подробные ориентиры (направление, километр, населенный пункт):</p>
+		<textarea name="text" placeholder="населенный пункт, километр, направление" required="1"></textarea>
+		<input name="lat" type="hidden" /> <input name="lon" type="hidden" />
+		<input type="submit" class="button" value="Отправить"/>
+		<a href="#" class="button grey close">Закрыть</a>
+	</form>			
+</body>
+
+	<script src="//api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=e97a2d00-bf33-41d2-86e6-a94e6b93daf3" type="text/javascript"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jBox/0.4.9/jBox.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+    <script src="js/editor.js"></script>
+
+
+  <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(40580880, "init", { id:40580880, clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/40580880" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+  
+    
+    </body>
+</html>
+
+
+
