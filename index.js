@@ -113,8 +113,8 @@ function yMapsReady () {
                     coordinates: [60.68, 61.35]
                 },
                 properties: {
-                    iconContent: "Рамка тут",
-                    hintContent: 'Перетащите в нужное место, затем нажмите на нее'
+                    iconContent: "Перетащите и нажмите",
+                    hintContent: 'Перетащите в нужное место, затем нажмите на метку'
                 }
             }, {
                 preset: 'islands#redStretchyIcon',
