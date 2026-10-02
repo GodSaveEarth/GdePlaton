@@ -1,5 +1,4 @@
 var map;
-var isDemo = true;
 var reportDialog, addDialog, addIntroDialog;;
 var sponsorList = [];
 var sponsorIndex = [0,0];
@@ -9,53 +8,13 @@ $(document).ready(jqReady);
 
 
 function jqReady() {
-    /*$.getJSON( "/s.json",function( data ) {
-        sponsorList = data.sponsorList;
-        updateFooterSponsor();
-        var sponsorTimer = setInterval(updateFooterSponsor, 9000);
-    });
-*/
+
 	new jBox('Modal', {
 	  attach: 'a.signup',
 	  content: $('form#signup'),
 	  maxWidth: 400
 	});
-	$('form#signup').ajaxForm( {
-        target: 'form#signup .result', 
-        clearForm:1
-    } );	
-
-    $("footer").on("click", "a.login", function(){
-        new jBox('Modal', {
-          content: $('form#login'),
-          maxWidth: 400
-        }).open();
-        $('form#login').on("submit", function(e){
-            pw = $(this).find("input:first").val();
-            setCookie("password", pw);
-            // just reload this page
-            return true;
-        });
-    });
     
-    $("#map").on("click", "a.report", function(e){
-        e.preventDefault();
-        if(!reportDialog) {
-            reportDialog = new jBox('Modal', {
-                content: $('form#report'),
-                maxWidth: 400,
-                onClose: function(){
-                    $(reportDialog.content).find(".result").text('');
-                    $(reportDialog.content).find("textarea").val('');
-                }
-            });
-        }
-        var id = $(this).data('id');
-        reportDialog.open();
-        $(reportDialog.content).find("input[name=id]").val(id);
-        $(reportDialog.content).find("b").text(id);
-    });
-    $('form#report').ajaxForm( {target: 'form#report .result', clearForm:1} );  
 
     $("footer").on("click", "a.add", function(e){
         e.preventDefault();
@@ -88,8 +47,6 @@ function jqReady() {
     });
 
     $('form#add').ajaxForm( {target: 'form#add .result', clearForm:1 } ); 
-
-
 }
 
 function yMapsReady () {
@@ -106,17 +63,11 @@ function yMapsReady () {
             gridSize: 64
         });
 
-    var password = getCookie("password");
-    // console.log("ajax load start");
     $.ajax({
-        url: "//api2.ru/gdeplaton/api.php?f=getPoints&password="+password,
+        url: "points.json",
         dataType: "json"
     }).done(function(data) {
-        pointsObjectManager.removeAll().add(data);  
-        
-        isDemo = data.features.length < 100;
-        $(".demo").toggle(isDemo);
-
+        pointsObjectManager.removeAll().add(data);          
         map.toggleMode(1);
     });     
 
@@ -136,7 +87,6 @@ function yMapsReady () {
         build: function () {
             // Сначала вызываем метод build родительского класса.
             BalloonContentLayout.superclass.build.call(this);
-            //$('.balloon .s .t').html(getSponsor(1));
         },
         clear: function () {
             BalloonContentLayout.superclass.clear.call(this);
@@ -190,44 +140,5 @@ function yMapsReady () {
         }
         
     }  
-}
-
-/*function updateFooterSponsor(){
-    $("footer ul.s span").fadeOut(function(){
-        $(this).html(getSponsor());
-        $(this).fadeIn(function(){
-            if( $("footer ul.s li").is(":hidden") ) {
-                $("footer ul.s li").fadeIn()
-            }
-        });
-    });
-}*/
-
-/*function getSponsor(type=0) {
-    sponsorIndex[type]++;
-    if(sponsorIndex[type] >= sponsorList.length) 
-        sponsorIndex[type] = 0;
-    i = sponsorIndex[type];
-    if(typeof sponsorList[i] == "undefined") 
-        return "";
-    var s = '<a href="'+sponsorList[i][1]+'" target="_new">'+sponsorList[i][0]+'</a>';
-    return s;
-}*/
-
-
-function getCookie(name) {
-  var value = "; " + document.cookie;
-  var parts = value.split("; " + name + "=");
-  if (parts.length == 2) return parts.pop().split(";").shift();
-}
-
-function setCookie(name,value,days) {
-    var expires = "";
-    if (days) {
-        var date = new Date();
-        date.setTime(date.getTime() + (days*24*60*60*1000));
-        expires = "; expires=" + date.toUTCString();
-    }
-    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
 }
 
