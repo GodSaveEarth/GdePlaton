@@ -3,9 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1023,
+      "id": 1,
       "properties": {
-        "id": 1023,
+        "id": 1,
         "c": ""
       },
       "geometry": {
@@ -18,9 +18,9 @@
     },
     {
       "type": "Feature",
-      "id": 1024,
+      "id": 2,
       "properties": {
-        "id": 1024,
+        "id": 2,
         "c": ""
       },
       "geometry": {
@@ -33,9 +33,9 @@
     },
     {
       "type": "Feature",
-      "id": 1025,
+      "id": 3,
       "properties": {
-        "id": 1025,
+        "id": 3,
         "c": "пост ДПС"
       },
       "geometry": {
@@ -48,9 +48,9 @@
     },
     {
       "type": "Feature",
-      "id": 1026,
+      "id": 4,
       "properties": {
-        "id": 1026,
+        "id": 4,
         "c": "Развилка Холмогоры-Архангельск"
       },
       "geometry": {
@@ -63,9 +63,9 @@
     },
     {
       "type": "Feature",
-      "id": 1027,
+      "id": 5,
       "properties": {
-        "id": 1027,
+        "id": 5,
         "c": "с.Емецк"
       },
       "geometry": {
@@ -78,9 +78,9 @@
     },
     {
       "type": "Feature",
-      "id": 1028,
+      "id": 6,
       "properties": {
-        "id": 1028,
+        "id": 6,
         "c": "Чекшино"
       },
       "geometry": {
@@ -93,9 +93,9 @@
     },
     {
       "type": "Feature",
-      "id": 1029,
+      "id": 7,
       "properties": {
-        "id": 1029,
+        "id": 7,
         "c": "Барское"
       },
       "geometry": {
@@ -108,9 +108,9 @@
     },
     {
       "type": "Feature",
-      "id": 1030,
+      "id": 8,
       "properties": {
-        "id": 1030,
+        "id": 8,
         "c": "Заемье (Грязовец)"
       },
       "geometry": {
@@ -123,9 +123,9 @@
     },
     {
       "type": "Feature",
-      "id": 1031,
+      "id": 9,
       "properties": {
-        "id": 1031,
+        "id": 9,
         "c": "На Волгоград за заправкой лукойл"
       },
       "geometry": {
@@ -138,9 +138,9 @@
     },
     {
       "type": "Feature",
-      "id": 1032,
+      "id": 10,
       "properties": {
-        "id": 1032,
+        "id": 10,
         "c": "Перед мостом"
       },
       "geometry": {
@@ -153,9 +153,9 @@
     },
     {
       "type": "Feature",
-      "id": 1033,
+      "id": 11,
       "properties": {
-        "id": 1033,
+        "id": 11,
         "c": "Возле заправки"
       },
       "geometry": {
@@ -168,9 +168,9 @@
     },
     {
       "type": "Feature",
-      "id": 1034,
+      "id": 12,
       "properties": {
-        "id": 1034,
+        "id": 12,
         "c": "Перед постом дпс"
       },
       "geometry": {
@@ -183,9 +183,9 @@
     },
     {
       "type": "Feature",
-      "id": 1035,
+      "id": 13,
       "properties": {
-        "id": 1035,
+        "id": 13,
         "c": ""
       },
       "geometry": {
@@ -198,9 +198,9 @@
     },
     {
       "type": "Feature",
-      "id": 1036,
+      "id": 14,
       "properties": {
-        "id": 1036,
+        "id": 14,
         "c": "Перед постом Дпс"
       },
       "geometry": {
@@ -213,9 +213,9 @@
     },
     {
       "type": "Feature",
-      "id": 1037,
+      "id": 15,
       "properties": {
-        "id": 1037,
+        "id": 15,
         "c": "В сторону Санкт Петербурга\tчерез 800м после моста через р.Шексна"
       },
       "geometry": {
@@ -228,9 +228,9 @@
     },
     {
       "type": "Feature",
-      "id": 1038,
+      "id": 16,
       "properties": {
-        "id": 1038,
+        "id": 16,
         "c": "Кожино\tНижегородская область\tАрзамасский район"
       },
       "geometry": {
@@ -243,9 +243,9 @@
     },
     {
       "type": "Feature",
-      "id": 1039,
+      "id": 17,
       "properties": {
-        "id": 1039,
+        "id": 17,
         "c": "Нижегородская область.г.Богоявление на выезд в сторону Саранска"
       },
       "geometry": {
@@ -258,9 +258,9 @@
     },
     {
       "type": "Feature",
-      "id": 1040,
+      "id": 18,
       "properties": {
-        "id": 1040,
+        "id": 18,
         "c": "Нижегородская область\tрпг.Шатки на выезде в сторону Саранска."
       },
       "geometry": {
@@ -273,9 +273,9 @@
     },
     {
       "type": "Feature",
-      "id": 1041,
+      "id": 19,
       "properties": {
-        "id": 1041,
+        "id": 19,
         "c": ""
       },
       "geometry": {
@@ -288,9 +288,9 @@
     },
     {
       "type": "Feature",
-      "id": 1042,
+      "id": 20,
       "properties": {
-        "id": 1042,
+        "id": 20,
         "c": ""
       },
       "geometry": {
@@ -303,9 +303,9 @@
     },
     {
       "type": "Feature",
-      "id": 1043,
+      "id": 21,
       "properties": {
-        "id": 1043,
+        "id": 21,
         "c": "Около г. Кстово\tмежду постом ГИБДД и поворотом на объездную г. Кстово"
       },
       "geometry": {
@@ -318,9 +318,9 @@
     },
     {
       "type": "Feature",
-      "id": 1045,
+      "id": 23,
       "properties": {
-        "id": 1045,
+        "id": 23,
         "c": "После с. Работки в сторону г. Казань\tоколо развилки на г. Большое мурашкино"
       },
       "geometry": {
@@ -333,9 +333,9 @@
     },
     {
       "type": "Feature",
-      "id": 1046,
+      "id": 24,
       "properties": {
-        "id": 1046,
+        "id": 24,
         "c": ""
       },
       "geometry": {
@@ -348,9 +348,9 @@
     },
     {
       "type": "Feature",
-      "id": 1047,
+      "id": 25,
       "properties": {
-        "id": 1047,
+        "id": 25,
         "c": ""
       },
       "geometry": {
@@ -363,9 +363,9 @@
     },
     {
       "type": "Feature",
-      "id": 1048,
+      "id": 26,
       "properties": {
-        "id": 1048,
+        "id": 26,
         "c": ""
       },
       "geometry": {
@@ -378,9 +378,9 @@
     },
     {
       "type": "Feature",
-      "id": 1049,
+      "id": 27,
       "properties": {
-        "id": 1049,
+        "id": 27,
         "c": ""
       },
       "geometry": {
@@ -393,9 +393,9 @@
     },
     {
       "type": "Feature",
-      "id": 1050,
+      "id": 28,
       "properties": {
-        "id": 1050,
+        "id": 28,
         "c": "Оленье\t72км от Волгограда или 629км от Саратова"
       },
       "geometry": {
@@ -408,9 +408,9 @@
     },
     {
       "type": "Feature",
-      "id": 1051,
+      "id": 29,
       "properties": {
-        "id": 1051,
+        "id": 29,
         "c": ""
       },
       "geometry": {
@@ -423,9 +423,9 @@
     },
     {
       "type": "Feature",
-      "id": 1052,
+      "id": 30,
       "properties": {
-        "id": 1052,
+        "id": 30,
         "c": "виадук между гатчинской развязкой и ульяновкой. в обе стороны."
       },
       "geometry": {
@@ -438,9 +438,9 @@
     },
     {
       "type": "Feature",
-      "id": 1054,
+      "id": 32,
       "properties": {
-        "id": 1054,
+        "id": 32,
         "c": ""
       },
       "geometry": {
@@ -453,9 +453,9 @@
     },
     {
       "type": "Feature",
-      "id": 1055,
+      "id": 33,
       "properties": {
-        "id": 1055,
+        "id": 33,
         "c": ""
       },
       "geometry": {
@@ -468,9 +468,9 @@
     },
     {
       "type": "Feature",
-      "id": 1056,
+      "id": 34,
       "properties": {
-        "id": 1056,
+        "id": 34,
         "c": ""
       },
       "geometry": {
@@ -483,9 +483,9 @@
     },
     {
       "type": "Feature",
-      "id": 1057,
+      "id": 35,
       "properties": {
-        "id": 1057,
+        "id": 35,
         "c": ""
       },
       "geometry": {
@@ -498,9 +498,9 @@
     },
     {
       "type": "Feature",
-      "id": 1058,
+      "id": 36,
       "properties": {
-        "id": 1058,
+        "id": 36,
         "c": "На М10 между а107 на Дмитров и А 107 на Звенигород"
       },
       "geometry": {
@@ -513,9 +513,9 @@
     },
     {
       "type": "Feature",
-      "id": 1059,
+      "id": 37,
       "properties": {
-        "id": 1059,
+        "id": 37,
         "c": "М2 120км"
       },
       "geometry": {
@@ -528,9 +528,9 @@
     },
     {
       "type": "Feature",
-      "id": 1060,
+      "id": 38,
       "properties": {
-        "id": 1060,
+        "id": 38,
         "c": "В сторону Вологды\tперед заездом на АЗС Лукойл"
       },
       "geometry": {
@@ -543,9 +543,9 @@
     },
     {
       "type": "Feature",
-      "id": 1062,
+      "id": 40,
       "properties": {
-        "id": 1062,
+        "id": 40,
         "c": "М-9  89км+300м"
       },
       "geometry": {
@@ -558,9 +558,9 @@
     },
     {
       "type": "Feature",
-      "id": 1063,
+      "id": 41,
       "properties": {
-        "id": 1063,
+        "id": 41,
         "c": ""
       },
       "geometry": {
@@ -573,9 +573,9 @@
     },
     {
       "type": "Feature",
-      "id": 1064,
+      "id": 42,
       "properties": {
-        "id": 1064,
+        "id": 42,
         "c": ""
       },
       "geometry": {
@@ -588,9 +588,9 @@
     },
     {
       "type": "Feature",
-      "id": 1065,
+      "id": 43,
       "properties": {
-        "id": 1065,
+        "id": 43,
         "c": "В область\tна спуске после Базарово"
       },
       "geometry": {
@@ -603,9 +603,9 @@
     },
     {
       "type": "Feature",
-      "id": 1066,
+      "id": 44,
       "properties": {
-        "id": 1066,
+        "id": 44,
         "c": ""
       },
       "geometry": {
@@ -618,9 +618,9 @@
     },
     {
       "type": "Feature",
-      "id": 1067,
+      "id": 45,
       "properties": {
-        "id": 1067,
+        "id": 45,
         "c": ""
       },
       "geometry": {
@@ -633,9 +633,9 @@
     },
     {
       "type": "Feature",
-      "id": 1068,
+      "id": 46,
       "properties": {
-        "id": 1068,
+        "id": 46,
         "c": ""
       },
       "geometry": {
@@ -648,9 +648,9 @@
     },
     {
       "type": "Feature",
-      "id": 1069,
+      "id": 47,
       "properties": {
-        "id": 1069,
+        "id": 47,
         "c": ""
       },
       "geometry": {
@@ -663,9 +663,9 @@
     },
     {
       "type": "Feature",
-      "id": 1070,
+      "id": 48,
       "properties": {
-        "id": 1070,
+        "id": 48,
         "c": ""
       },
       "geometry": {
@@ -678,9 +678,9 @@
     },
     {
       "type": "Feature",
-      "id": 1071,
+      "id": 49,
       "properties": {
-        "id": 1071,
+        "id": 49,
         "c": ""
       },
       "geometry": {
@@ -693,9 +693,9 @@
     },
     {
       "type": "Feature",
-      "id": 1072,
+      "id": 50,
       "properties": {
-        "id": 1072,
+        "id": 50,
         "c": ""
       },
       "geometry": {
@@ -708,9 +708,9 @@
     },
     {
       "type": "Feature",
-      "id": 1073,
+      "id": 51,
       "properties": {
-        "id": 1073,
+        "id": 51,
         "c": ""
       },
       "geometry": {
@@ -723,9 +723,9 @@
     },
     {
       "type": "Feature",
-      "id": 1075,
+      "id": 53,
       "properties": {
-        "id": 1075,
+        "id": 53,
         "c": ""
       },
       "geometry": {
@@ -738,9 +738,9 @@
     },
     {
       "type": "Feature",
-      "id": 1076,
+      "id": 54,
       "properties": {
-        "id": 1076,
+        "id": 54,
         "c": ""
       },
       "geometry": {
@@ -753,9 +753,9 @@
     },
     {
       "type": "Feature",
-      "id": 1077,
+      "id": 55,
       "properties": {
-        "id": 1077,
+        "id": 55,
         "c": ""
       },
       "geometry": {
@@ -768,9 +768,9 @@
     },
     {
       "type": "Feature",
-      "id": 1079,
+      "id": 57,
       "properties": {
-        "id": 1079,
+        "id": 57,
         "c": ""
       },
       "geometry": {
@@ -783,9 +783,9 @@
     },
     {
       "type": "Feature",
-      "id": 1080,
+      "id": 58,
       "properties": {
-        "id": 1080,
+        "id": 58,
         "c": ""
       },
       "geometry": {
@@ -798,9 +798,9 @@
     },
     {
       "type": "Feature",
-      "id": 1081,
+      "id": 59,
       "properties": {
-        "id": 1081,
+        "id": 59,
         "c": ""
       },
       "geometry": {
@@ -813,9 +813,9 @@
     },
     {
       "type": "Feature",
-      "id": 1083,
+      "id": 61,
       "properties": {
-        "id": 1083,
+        "id": 61,
         "c": "между КАДом и АЗС ПТК"
       },
       "geometry": {
@@ -828,9 +828,9 @@
     },
     {
       "type": "Feature",
-      "id": 1084,
+      "id": 62,
       "properties": {
-        "id": 1084,
+        "id": 62,
         "c": ""
       },
       "geometry": {
@@ -843,9 +843,9 @@
     },
     {
       "type": "Feature",
-      "id": 1085,
+      "id": 63,
       "properties": {
-        "id": 1085,
+        "id": 63,
         "c": ""
       },
       "geometry": {
@@ -858,9 +858,9 @@
     },
     {
       "type": "Feature",
-      "id": 1088,
+      "id": 66,
       "properties": {
-        "id": 1088,
+        "id": 66,
         "c": ""
       },
       "geometry": {
@@ -873,9 +873,9 @@
     },
     {
       "type": "Feature",
-      "id": 1089,
+      "id": 67,
       "properties": {
-        "id": 1089,
+        "id": 67,
         "c": ""
       },
       "geometry": {
@@ -888,9 +888,9 @@
     },
     {
       "type": "Feature",
-      "id": 1090,
+      "id": 68,
       "properties": {
-        "id": 1090,
+        "id": 68,
         "c": ""
       },
       "geometry": {
@@ -903,9 +903,9 @@
     },
     {
       "type": "Feature",
-      "id": 1091,
+      "id": 69,
       "properties": {
-        "id": 1091,
+        "id": 69,
         "c": "бетонка в сторону Гатчино"
       },
       "geometry": {
@@ -918,9 +918,9 @@
     },
     {
       "type": "Feature",
-      "id": 1092,
+      "id": 70,
       "properties": {
-        "id": 1092,
+        "id": 70,
         "c": ""
       },
       "geometry": {
@@ -933,9 +933,9 @@
     },
     {
       "type": "Feature",
-      "id": 1094,
+      "id": 72,
       "properties": {
-        "id": 1094,
+        "id": 72,
         "c": ""
       },
       "geometry": {
@@ -948,9 +948,9 @@
     },
     {
       "type": "Feature",
-      "id": 1095,
+      "id": 73,
       "properties": {
-        "id": 1095,
+        "id": 73,
         "c": ""
       },
       "geometry": {
@@ -963,9 +963,9 @@
     },
     {
       "type": "Feature",
-      "id": 1096,
+      "id": 74,
       "properties": {
-        "id": 1096,
+        "id": 74,
         "c": ""
       },
       "geometry": {
@@ -978,9 +978,9 @@
     },
     {
       "type": "Feature",
-      "id": 1097,
+      "id": 75,
       "properties": {
-        "id": 1097,
+        "id": 75,
         "c": ""
       },
       "geometry": {
@@ -993,9 +993,9 @@
     },
     {
       "type": "Feature",
-      "id": 1098,
+      "id": 76,
       "properties": {
-        "id": 1098,
+        "id": 76,
         "c": ""
       },
       "geometry": {
@@ -1008,9 +1008,9 @@
     },
     {
       "type": "Feature",
-      "id": 1099,
+      "id": 77,
       "properties": {
-        "id": 1099,
+        "id": 77,
         "c": ""
       },
       "geometry": {
@@ -1023,9 +1023,9 @@
     },
     {
       "type": "Feature",
-      "id": 1100,
+      "id": 78,
       "properties": {
-        "id": 1100,
+        "id": 78,
         "c": ""
       },
       "geometry": {
@@ -1038,9 +1038,9 @@
     },
     {
       "type": "Feature",
-      "id": 1101,
+      "id": 79,
       "properties": {
-        "id": 1101,
+        "id": 79,
         "c": ""
       },
       "geometry": {
@@ -1053,9 +1053,9 @@
     },
     {
       "type": "Feature",
-      "id": 1102,
+      "id": 80,
       "properties": {
-        "id": 1102,
+        "id": 80,
         "c": ""
       },
       "geometry": {
@@ -1068,9 +1068,9 @@
     },
     {
       "type": "Feature",
-      "id": 1103,
+      "id": 81,
       "properties": {
-        "id": 1103,
+        "id": 81,
         "c": ""
       },
       "geometry": {
@@ -1083,9 +1083,9 @@
     },
     {
       "type": "Feature",
-      "id": 1104,
+      "id": 82,
       "properties": {
-        "id": 1104,
+        "id": 82,
         "c": ""
       },
       "geometry": {
@@ -1098,9 +1098,9 @@
     },
     {
       "type": "Feature",
-      "id": 1106,
+      "id": 84,
       "properties": {
-        "id": 1106,
+        "id": 84,
         "c": ""
       },
       "geometry": {
@@ -1113,9 +1113,9 @@
     },
     {
       "type": "Feature",
-      "id": 1107,
+      "id": 85,
       "properties": {
-        "id": 1107,
+        "id": 85,
         "c": ""
       },
       "geometry": {
@@ -1128,9 +1128,9 @@
     },
     {
       "type": "Feature",
-      "id": 1108,
+      "id": 86,
       "properties": {
-        "id": 1108,
+        "id": 86,
         "c": ""
       },
       "geometry": {
@@ -1143,9 +1143,9 @@
     },
     {
       "type": "Feature",
-      "id": 1109,
+      "id": 87,
       "properties": {
-        "id": 1109,
+        "id": 87,
         "c": ""
       },
       "geometry": {
@@ -1158,9 +1158,9 @@
     },
     {
       "type": "Feature",
-      "id": 1110,
+      "id": 88,
       "properties": {
-        "id": 1110,
+        "id": 88,
         "c": ""
       },
       "geometry": {
@@ -1173,9 +1173,9 @@
     },
     {
       "type": "Feature",
-      "id": 1111,
+      "id": 89,
       "properties": {
-        "id": 1111,
+        "id": 89,
         "c": ""
       },
       "geometry": {
@@ -1188,9 +1188,9 @@
     },
     {
       "type": "Feature",
-      "id": 1112,
+      "id": 90,
       "properties": {
-        "id": 1112,
+        "id": 90,
         "c": ""
       },
       "geometry": {
@@ -1203,9 +1203,9 @@
     },
     {
       "type": "Feature",
-      "id": 1113,
+      "id": 91,
       "properties": {
-        "id": 1113,
+        "id": 91,
         "c": ""
       },
       "geometry": {
@@ -1218,9 +1218,9 @@
     },
     {
       "type": "Feature",
-      "id": 1114,
+      "id": 92,
       "properties": {
-        "id": 1114,
+        "id": 92,
         "c": ""
       },
       "geometry": {
@@ -1233,9 +1233,9 @@
     },
     {
       "type": "Feature",
-      "id": 1115,
+      "id": 93,
       "properties": {
-        "id": 1115,
+        "id": 93,
         "c": "Ямбирно\tоколо поворота на Сасово"
       },
       "geometry": {
@@ -1248,9 +1248,9 @@
     },
     {
       "type": "Feature",
-      "id": 1116,
+      "id": 94,
       "properties": {
-        "id": 1116,
+        "id": 94,
         "c": ""
       },
       "geometry": {
@@ -1263,9 +1263,9 @@
     },
     {
       "type": "Feature",
-      "id": 1117,
+      "id": 95,
       "properties": {
-        "id": 1117,
+        "id": 95,
         "c": ""
       },
       "geometry": {
@@ -1278,9 +1278,9 @@
     },
     {
       "type": "Feature",
-      "id": 1118,
+      "id": 96,
       "properties": {
-        "id": 1118,
+        "id": 96,
         "c": ""
       },
       "geometry": {
@@ -1293,9 +1293,9 @@
     },
     {
       "type": "Feature",
-      "id": 1120,
+      "id": 98,
       "properties": {
-        "id": 1120,
+        "id": 98,
         "c": ""
       },
       "geometry": {
@@ -1308,9 +1308,9 @@
     },
     {
       "type": "Feature",
-      "id": 1121,
+      "id": 99,
       "properties": {
-        "id": 1121,
+        "id": 99,
         "c": "Граница Московской и Владимирской области п. Дворики"
       },
       "geometry": {
@@ -1323,9 +1323,9 @@
     },
     {
       "type": "Feature",
-      "id": 1122,
+      "id": 100,
       "properties": {
-        "id": 1122,
+        "id": 100,
         "c": "Ярославское шоссе  п.Кощейково"
       },
       "geometry": {
@@ -1338,9 +1338,9 @@
     },
     {
       "type": "Feature",
-      "id": 1123,
+      "id": 101,
       "properties": {
-        "id": 1123,
+        "id": 101,
         "c": "Перед Луховицами за 300 м до начала Луховиц со стороны Москвы"
       },
       "geometry": {
@@ -1353,9 +1353,9 @@
     },
     {
       "type": "Feature",
-      "id": 1124,
+      "id": 102,
       "properties": {
-        "id": 1124,
+        "id": 102,
         "c": "п плотава прямо на знаке. Со стороны Москвы"
       },
       "geometry": {
@@ -1368,9 +1368,9 @@
     },
     {
       "type": "Feature",
-      "id": 1126,
+      "id": 104,
       "properties": {
-        "id": 1126,
+        "id": 104,
         "c": ""
       },
       "geometry": {
@@ -1383,9 +1383,9 @@
     },
     {
       "type": "Feature",
-      "id": 1127,
+      "id": 105,
       "properties": {
-        "id": 1127,
+        "id": 105,
         "c": ""
       },
       "geometry": {
@@ -1398,9 +1398,9 @@
     },
     {
       "type": "Feature",
-      "id": 1128,
+      "id": 106,
       "properties": {
-        "id": 1128,
+        "id": 106,
         "c": ""
       },
       "geometry": {
@@ -1413,9 +1413,9 @@
     },
     {
       "type": "Feature",
-      "id": 1130,
+      "id": 108,
       "properties": {
-        "id": 1130,
+        "id": 108,
         "c": ""
       },
       "geometry": {
@@ -1428,9 +1428,9 @@
     },
     {
       "type": "Feature",
-      "id": 1131,
+      "id": 109,
       "properties": {
-        "id": 1131,
+        "id": 109,
         "c": "в районе посёлка Высокое"
       },
       "geometry": {
@@ -1443,9 +1443,9 @@
     },
     {
       "type": "Feature",
-      "id": 1133,
+      "id": 111,
       "properties": {
-        "id": 1133,
+        "id": 111,
         "c": "60-ый км по столбам от Москвы"
       },
       "geometry": {
@@ -1458,9 +1458,9 @@
     },
     {
       "type": "Feature",
-      "id": 1135,
+      "id": 113,
       "properties": {
-        "id": 1135,
+        "id": 113,
         "c": "Граница Татарии и Чувашии"
       },
       "geometry": {
@@ -1473,9 +1473,9 @@
     },
     {
       "type": "Feature",
-      "id": 1136,
+      "id": 114,
       "properties": {
-        "id": 1136,
+        "id": 114,
         "c": "Перед двумя светофорами со стороны М5"
       },
       "geometry": {
@@ -1488,9 +1488,9 @@
     },
     {
       "type": "Feature",
-      "id": 1137,
+      "id": 115,
       "properties": {
-        "id": 1137,
+        "id": 115,
         "c": ""
       },
       "geometry": {
@@ -1503,9 +1503,9 @@
     },
     {
       "type": "Feature",
-      "id": 1138,
+      "id": 116,
       "properties": {
-        "id": 1138,
+        "id": 116,
         "c": ""
       },
       "geometry": {
@@ -1518,9 +1518,9 @@
     },
     {
       "type": "Feature",
-      "id": 1139,
+      "id": 117,
       "properties": {
-        "id": 1139,
+        "id": 117,
         "c": "Приблизительное размещение"
       },
       "geometry": {
@@ -1533,9 +1533,9 @@
     },
     {
       "type": "Feature",
-      "id": 1140,
+      "id": 118,
       "properties": {
-        "id": 1140,
+        "id": 118,
         "c": ""
       },
       "geometry": {
@@ -1548,9 +1548,9 @@
     },
     {
       "type": "Feature",
-      "id": 1141,
+      "id": 119,
       "properties": {
-        "id": 1141,
+        "id": 119,
         "c": "Пост ДПС"
       },
       "geometry": {
@@ -1563,9 +1563,9 @@
     },
     {
       "type": "Feature",
-      "id": 1142,
+      "id": 120,
       "properties": {
-        "id": 1142,
+        "id": 120,
         "c": ""
       },
       "geometry": {
@@ -1578,9 +1578,9 @@
     },
     {
       "type": "Feature",
-      "id": 1143,
+      "id": 121,
       "properties": {
-        "id": 1143,
+        "id": 121,
         "c": ""
       },
       "geometry": {
@@ -1593,9 +1593,9 @@
     },
     {
       "type": "Feature",
-      "id": 1144,
+      "id": 122,
       "properties": {
-        "id": 1144,
+        "id": 122,
         "c": ""
       },
       "geometry": {
@@ -1608,9 +1608,9 @@
     },
     {
       "type": "Feature",
-      "id": 1145,
+      "id": 123,
       "properties": {
-        "id": 1145,
+        "id": 123,
         "c": ""
       },
       "geometry": {
@@ -1623,9 +1623,9 @@
     },
     {
       "type": "Feature",
-      "id": 1146,
+      "id": 124,
       "properties": {
-        "id": 1146,
+        "id": 124,
         "c": ""
       },
       "geometry": {
@@ -1638,9 +1638,9 @@
     },
     {
       "type": "Feature",
-      "id": 1147,
+      "id": 125,
       "properties": {
-        "id": 1147,
+        "id": 125,
         "c": ""
       },
       "geometry": {
@@ -1653,9 +1653,9 @@
     },
     {
       "type": "Feature",
-      "id": 1148,
+      "id": 126,
       "properties": {
-        "id": 1148,
+        "id": 126,
         "c": ""
       },
       "geometry": {
@@ -1668,9 +1668,9 @@
     },
     {
       "type": "Feature",
-      "id": 1149,
+      "id": 127,
       "properties": {
-        "id": 1149,
+        "id": 127,
         "c": ""
       },
       "geometry": {
@@ -1683,9 +1683,9 @@
     },
     {
       "type": "Feature",
-      "id": 1150,
+      "id": 128,
       "properties": {
-        "id": 1150,
+        "id": 128,
         "c": ""
       },
       "geometry": {
@@ -1698,9 +1698,9 @@
     },
     {
       "type": "Feature",
-      "id": 1151,
+      "id": 129,
       "properties": {
-        "id": 1151,
+        "id": 129,
         "c": ""
       },
       "geometry": {
@@ -1713,9 +1713,9 @@
     },
     {
       "type": "Feature",
-      "id": 1152,
+      "id": 130,
       "properties": {
-        "id": 1152,
+        "id": 130,
         "c": ""
       },
       "geometry": {
@@ -1728,9 +1728,9 @@
     },
     {
       "type": "Feature",
-      "id": 1153,
+      "id": 131,
       "properties": {
-        "id": 1153,
+        "id": 131,
         "c": ""
       },
       "geometry": {
@@ -1743,9 +1743,9 @@
     },
     {
       "type": "Feature",
-      "id": 1154,
+      "id": 132,
       "properties": {
-        "id": 1154,
+        "id": 132,
         "c": ""
       },
       "geometry": {
@@ -1758,9 +1758,9 @@
     },
     {
       "type": "Feature",
-      "id": 1155,
+      "id": 133,
       "properties": {
-        "id": 1155,
+        "id": 133,
         "c": ""
       },
       "geometry": {
@@ -1773,9 +1773,9 @@
     },
     {
       "type": "Feature",
-      "id": 1156,
+      "id": 134,
       "properties": {
-        "id": 1156,
+        "id": 134,
         "c": ""
       },
       "geometry": {
@@ -1788,9 +1788,9 @@
     },
     {
       "type": "Feature",
-      "id": 1157,
+      "id": 135,
       "properties": {
-        "id": 1157,
+        "id": 135,
         "c": "Грибановский на м6"
       },
       "geometry": {
@@ -1803,9 +1803,9 @@
     },
     {
       "type": "Feature",
-      "id": 1158,
+      "id": 136,
       "properties": {
-        "id": 1158,
+        "id": 136,
         "c": "перед 108-й около оз Торбеевское"
       },
       "geometry": {
@@ -1818,9 +1818,9 @@
     },
     {
       "type": "Feature",
-      "id": 1159,
+      "id": 137,
       "properties": {
-        "id": 1159,
+        "id": 137,
         "c": ""
       },
       "geometry": {
@@ -1833,9 +1833,9 @@
     },
     {
       "type": "Feature",
-      "id": 1160,
+      "id": 138,
       "properties": {
-        "id": 1160,
+        "id": 138,
         "c": "Верхний Карачан "
       },
       "geometry": {
@@ -1848,9 +1848,9 @@
     },
     {
       "type": "Feature",
-      "id": 1162,
+      "id": 140,
       "properties": {
-        "id": 1162,
+        "id": 140,
         "c": "Мушковичи в сторону Минска"
       },
       "geometry": {
@@ -1863,9 +1863,9 @@
     },
     {
       "type": "Feature",
-      "id": 1163,
+      "id": 141,
       "properties": {
-        "id": 1163,
+        "id": 141,
         "c": "Каменка"
       },
       "geometry": {
@@ -1878,9 +1878,9 @@
     },
     {
       "type": "Feature",
-      "id": 1164,
+      "id": 142,
       "properties": {
-        "id": 1164,
+        "id": 142,
         "c": ""
       },
       "geometry": {
@@ -1893,9 +1893,9 @@
     },
     {
       "type": "Feature",
-      "id": 1165,
+      "id": 143,
       "properties": {
-        "id": 1165,
+        "id": 143,
         "c": ""
       },
       "geometry": {
@@ -1908,9 +1908,9 @@
     },
     {
       "type": "Feature",
-      "id": 1166,
+      "id": 144,
       "properties": {
-        "id": 1166,
+        "id": 144,
         "c": "Сясьстрой"
       },
       "geometry": {
@@ -1923,9 +1923,9 @@
     },
     {
       "type": "Feature",
-      "id": 1167,
+      "id": 145,
       "properties": {
-        "id": 1167,
+        "id": 145,
         "c": "перед мостом"
       },
       "geometry": {
@@ -1938,9 +1938,9 @@
     },
     {
       "type": "Feature",
-      "id": 1170,
+      "id": 148,
       "properties": {
-        "id": 1170,
+        "id": 148,
         "c": "после п. Грибки"
       },
       "geometry": {
@@ -1953,9 +1953,9 @@
     },
     {
       "type": "Feature",
-      "id": 1171,
+      "id": 149,
       "properties": {
-        "id": 1171,
+        "id": 149,
         "c": "село Раздольное Краснодарский край "
       },
       "geometry": {
@@ -1968,9 +1968,9 @@
     },
     {
       "type": "Feature",
-      "id": 1172,
+      "id": 150,
       "properties": {
-        "id": 1172,
+        "id": 150,
         "c": ""
       },
       "geometry": {
@@ -1983,9 +1983,9 @@
     },
     {
       "type": "Feature",
-      "id": 1173,
+      "id": 151,
       "properties": {
-        "id": 1173,
+        "id": 151,
         "c": ""
       },
       "geometry": {
@@ -1998,9 +1998,9 @@
     },
     {
       "type": "Feature",
-      "id": 1176,
+      "id": 154,
       "properties": {
-        "id": 1176,
+        "id": 154,
         "c": ""
       },
       "geometry": {
@@ -2013,9 +2013,9 @@
     },
     {
       "type": "Feature",
-      "id": 1177,
+      "id": 155,
       "properties": {
-        "id": 1177,
+        "id": 155,
         "c": ""
       },
       "geometry": {
@@ -2028,9 +2028,9 @@
     },
     {
       "type": "Feature",
-      "id": 1178,
+      "id": 156,
       "properties": {
-        "id": 1178,
+        "id": 156,
         "c": ""
       },
       "geometry": {
@@ -2043,9 +2043,9 @@
     },
     {
       "type": "Feature",
-      "id": 1180,
+      "id": 158,
       "properties": {
-        "id": 1180,
+        "id": 158,
         "c": "На м6 перед водохранилище на спуске"
       },
       "geometry": {
@@ -2058,9 +2058,9 @@
     },
     {
       "type": "Feature",
-      "id": 1181,
+      "id": 159,
       "properties": {
-        "id": 1181,
+        "id": 159,
         "c": "Новая ляда после азс лукойл в сторону Пензы. в Тамбов после жд переезда"
       },
       "geometry": {
@@ -2073,9 +2073,9 @@
     },
     {
       "type": "Feature",
-      "id": 1182,
+      "id": 160,
       "properties": {
-        "id": 1182,
+        "id": 160,
         "c": "Пишем в маршрутной карте от рассвета до раздолки"
       },
       "geometry": {
@@ -2088,9 +2088,9 @@
     },
     {
       "type": "Feature",
-      "id": 1184,
+      "id": 162,
       "properties": {
-        "id": 1184,
+        "id": 162,
         "c": ""
       },
       "geometry": {
@@ -2103,9 +2103,9 @@
     },
     {
       "type": "Feature",
-      "id": 1185,
+      "id": 163,
       "properties": {
-        "id": 1185,
+        "id": 163,
         "c": ""
       },
       "geometry": {
@@ -2118,9 +2118,9 @@
     },
     {
       "type": "Feature",
-      "id": 1186,
+      "id": 164,
       "properties": {
-        "id": 1186,
+        "id": 164,
         "c": ""
       },
       "geometry": {
@@ -2133,9 +2133,9 @@
     },
     {
       "type": "Feature",
-      "id": 1187,
+      "id": 165,
       "properties": {
-        "id": 1187,
+        "id": 165,
         "c": ""
       },
       "geometry": {
@@ -2148,9 +2148,9 @@
     },
     {
       "type": "Feature",
-      "id": 1188,
+      "id": 166,
       "properties": {
-        "id": 1188,
+        "id": 166,
         "c": ""
       },
       "geometry": {
@@ -2163,9 +2163,9 @@
     },
     {
       "type": "Feature",
-      "id": 1190,
+      "id": 168,
       "properties": {
-        "id": 1190,
+        "id": 168,
         "c": ""
       },
       "geometry": {
@@ -2178,9 +2178,9 @@
     },
     {
       "type": "Feature",
-      "id": 1191,
+      "id": 169,
       "properties": {
-        "id": 1191,
+        "id": 169,
         "c": "НА выезде с д. Афанасьево на Елец"
       },
       "geometry": {
@@ -2193,9 +2193,9 @@
     },
     {
       "type": "Feature",
-      "id": 1192,
+      "id": 170,
       "properties": {
-        "id": 1192,
+        "id": 170,
         "c": "В районе старого Змиевского поста ДПС"
       },
       "geometry": {
@@ -2208,9 +2208,9 @@
     },
     {
       "type": "Feature",
-      "id": 1193,
+      "id": 171,
       "properties": {
-        "id": 1193,
+        "id": 171,
         "c": "За д. Покровское в сторону Ливны. "
       },
       "geometry": {
@@ -2223,9 +2223,9 @@
     },
     {
       "type": "Feature",
-      "id": 1195,
+      "id": 173,
       "properties": {
-        "id": 1195,
+        "id": 173,
         "c": ""
       },
       "geometry": {
@@ -2238,9 +2238,9 @@
     },
     {
       "type": "Feature",
-      "id": 1196,
+      "id": 174,
       "properties": {
-        "id": 1196,
+        "id": 174,
         "c": ""
       },
       "geometry": {
@@ -2253,9 +2253,9 @@
     },
     {
       "type": "Feature",
-      "id": 1197,
+      "id": 175,
       "properties": {
-        "id": 1197,
+        "id": 175,
         "c": ""
       },
       "geometry": {
@@ -2268,9 +2268,9 @@
     },
     {
       "type": "Feature",
-      "id": 1198,
+      "id": 176,
       "properties": {
-        "id": 1198,
+        "id": 176,
         "c": ""
       },
       "geometry": {
@@ -2283,9 +2283,9 @@
     },
     {
       "type": "Feature",
-      "id": 1199,
+      "id": 177,
       "properties": {
-        "id": 1199,
+        "id": 177,
         "c": ""
       },
       "geometry": {
@@ -2298,9 +2298,9 @@
     },
     {
       "type": "Feature",
-      "id": 1200,
+      "id": 178,
       "properties": {
-        "id": 1200,
+        "id": 178,
         "c": "после поворота на аэропорт со стороны Казани"
       },
       "geometry": {
@@ -2313,9 +2313,9 @@
     },
     {
       "type": "Feature",
-      "id": 1201,
+      "id": 179,
       "properties": {
-        "id": 1201,
+        "id": 179,
         "c": ""
       },
       "geometry": {
@@ -2328,9 +2328,9 @@
     },
     {
       "type": "Feature",
-      "id": 1202,
+      "id": 180,
       "properties": {
-        "id": 1202,
+        "id": 180,
         "c": "между ТОРЖКОМ и ТВЕРЬЮ"
       },
       "geometry": {
@@ -2343,9 +2343,9 @@
     },
     {
       "type": "Feature",
-      "id": 1203,
+      "id": 181,
       "properties": {
-        "id": 1203,
+        "id": 181,
         "c": "Развязка М 4 на М 29 "
       },
       "geometry": {
@@ -2358,9 +2358,9 @@
     },
     {
       "type": "Feature",
-      "id": 1204,
+      "id": 182,
       "properties": {
-        "id": 1204,
+        "id": 182,
         "c": "трасса р-217 перед г. Невинномысск"
       },
       "geometry": {
@@ -2373,9 +2373,9 @@
     },
     {
       "type": "Feature",
-      "id": 1205,
+      "id": 183,
       "properties": {
-        "id": 1205,
+        "id": 183,
         "c": "трасса р-217 населенный пункт Малка"
       },
       "geometry": {
@@ -2388,9 +2388,9 @@
     },
     {
       "type": "Feature",
-      "id": 1207,
+      "id": 185,
       "properties": {
-        "id": 1207,
+        "id": 185,
         "c": " Р 21 Между Роснефть- Юшково  работает."
       },
       "geometry": {
@@ -2403,9 +2403,9 @@
     },
     {
       "type": "Feature",
-      "id": 1209,
+      "id": 187,
       "properties": {
-        "id": 1209,
+        "id": 187,
         "c": ""
       },
       "geometry": {
@@ -2418,9 +2418,9 @@
     },
     {
       "type": "Feature",
-      "id": 1212,
+      "id": 190,
       "properties": {
-        "id": 1212,
+        "id": 190,
         "c": "За постом ГИБДД в сторону набережных Челнов"
       },
       "geometry": {
@@ -2433,9 +2433,9 @@
     },
     {
       "type": "Feature",
-      "id": 1213,
+      "id": 191,
       "properties": {
-        "id": 1213,
+        "id": 191,
         "c": "Вход в д.Лопатницы"
       },
       "geometry": {
@@ -2448,9 +2448,9 @@
     },
     {
       "type": "Feature",
-      "id": 1215,
+      "id": 193,
       "properties": {
-        "id": 1215,
+        "id": 193,
         "c": "В районе п.Косыревка"
       },
       "geometry": {
@@ -2463,9 +2463,9 @@
     },
     {
       "type": "Feature",
-      "id": 1216,
+      "id": 194,
       "properties": {
-        "id": 1216,
+        "id": 194,
         "c": "27 км от Тамбовской объездной "
       },
       "geometry": {
@@ -2478,9 +2478,9 @@
     },
     {
       "type": "Feature",
-      "id": 1217,
+      "id": 195,
       "properties": {
-        "id": 1217,
+        "id": 195,
         "c": "тихорецк-павловская.перед расширением"
       },
       "geometry": {
@@ -2493,9 +2493,9 @@
     },
     {
       "type": "Feature",
-      "id": 1218,
+      "id": 196,
       "properties": {
-        "id": 1218,
+        "id": 196,
         "c": ""
       },
       "geometry": {
@@ -2508,9 +2508,9 @@
     },
     {
       "type": "Feature",
-      "id": 1220,
+      "id": 198,
       "properties": {
-        "id": 1220,
+        "id": 198,
         "c": ""
       },
       "geometry": {
@@ -2523,9 +2523,9 @@
     },
     {
       "type": "Feature",
-      "id": 1223,
+      "id": 201,
       "properties": {
-        "id": 1223,
+        "id": 201,
         "c": ""
       },
       "geometry": {
@@ -2538,9 +2538,9 @@
     },
     {
       "type": "Feature",
-      "id": 1224,
+      "id": 202,
       "properties": {
-        "id": 1224,
+        "id": 202,
         "c": "Поворот на Сыктывкар"
       },
       "geometry": {
@@ -2553,9 +2553,9 @@
     },
     {
       "type": "Feature",
-      "id": 1226,
+      "id": 204,
       "properties": {
-        "id": 1226,
+        "id": 204,
         "c": "напротив водохранилища"
       },
       "geometry": {
@@ -2568,9 +2568,9 @@
     },
     {
       "type": "Feature",
-      "id": 1227,
+      "id": 205,
       "properties": {
-        "id": 1227,
+        "id": 205,
         "c": ""
       },
       "geometry": {
@@ -2583,9 +2583,9 @@
     },
     {
       "type": "Feature",
-      "id": 1228,
+      "id": 206,
       "properties": {
-        "id": 1228,
+        "id": 206,
         "c": ""
       },
       "geometry": {
@@ -2598,9 +2598,9 @@
     },
     {
       "type": "Feature",
-      "id": 1229,
+      "id": 207,
       "properties": {
-        "id": 1229,
+        "id": 207,
         "c": ""
       },
       "geometry": {
@@ -2613,9 +2613,9 @@
     },
     {
       "type": "Feature",
-      "id": 1230,
+      "id": 208,
       "properties": {
-        "id": 1230,
+        "id": 208,
         "c": ""
       },
       "geometry": {
@@ -2628,9 +2628,9 @@
     },
     {
       "type": "Feature",
-      "id": 1232,
+      "id": 210,
       "properties": {
-        "id": 1232,
+        "id": 210,
         "c": ""
       },
       "geometry": {
@@ -2643,9 +2643,9 @@
     },
     {
       "type": "Feature",
-      "id": 1233,
+      "id": 211,
       "properties": {
-        "id": 1233,
+        "id": 211,
         "c": ""
       },
       "geometry": {
@@ -2658,9 +2658,9 @@
     },
     {
       "type": "Feature",
-      "id": 1235,
+      "id": 213,
       "properties": {
-        "id": 1235,
+        "id": 213,
         "c": ""
       },
       "geometry": {
@@ -2673,9 +2673,9 @@
     },
     {
       "type": "Feature",
-      "id": 1236,
+      "id": 214,
       "properties": {
-        "id": 1236,
+        "id": 214,
         "c": ""
       },
       "geometry": {
@@ -2688,9 +2688,9 @@
     },
     {
       "type": "Feature",
-      "id": 1237,
+      "id": 215,
       "properties": {
-        "id": 1237,
+        "id": 215,
         "c": ""
       },
       "geometry": {
@@ -2703,9 +2703,9 @@
     },
     {
       "type": "Feature",
-      "id": 1238,
+      "id": 216,
       "properties": {
-        "id": 1238,
+        "id": 216,
         "c": ""
       },
       "geometry": {
@@ -2718,9 +2718,9 @@
     },
     {
       "type": "Feature",
-      "id": 1241,
+      "id": 219,
       "properties": {
-        "id": 1241,
+        "id": 219,
         "c": ""
       },
       "geometry": {
@@ -2733,9 +2733,9 @@
     },
     {
       "type": "Feature",
-      "id": 1242,
+      "id": 220,
       "properties": {
-        "id": 1242,
+        "id": 220,
         "c": "Апастасово"
       },
       "geometry": {
@@ -2748,9 +2748,9 @@
     },
     {
       "type": "Feature",
-      "id": 1243,
+      "id": 221,
       "properties": {
-        "id": 1243,
+        "id": 221,
         "c": "Большие ключища"
       },
       "geometry": {
@@ -2763,9 +2763,9 @@
     },
     {
       "type": "Feature",
-      "id": 1246,
+      "id": 224,
       "properties": {
-        "id": 1246,
+        "id": 224,
         "c": ""
       },
       "geometry": {
@@ -2778,9 +2778,9 @@
     },
     {
       "type": "Feature",
-      "id": 1248,
+      "id": 226,
       "properties": {
-        "id": 1248,
+        "id": 226,
         "c": ""
       },
       "geometry": {
@@ -2793,9 +2793,9 @@
     },
     {
       "type": "Feature",
-      "id": 1249,
+      "id": 227,
       "properties": {
-        "id": 1249,
+        "id": 227,
         "c": "в сторону москвы перед развязкой часто стоит машина платон"
       },
       "geometry": {
@@ -2808,9 +2808,9 @@
     },
     {
       "type": "Feature",
-      "id": 1250,
+      "id": 228,
       "properties": {
-        "id": 1250,
+        "id": 228,
         "c": "машина стоит платон в сторону орехово-зуево"
       },
       "geometry": {
@@ -2823,9 +2823,9 @@
     },
     {
       "type": "Feature",
-      "id": 1251,
+      "id": 229,
       "properties": {
-        "id": 1251,
+        "id": 229,
         "c": "Сальское кольцо"
       },
       "geometry": {
@@ -2838,9 +2838,9 @@
     },
     {
       "type": "Feature",
-      "id": 1252,
+      "id": 230,
       "properties": {
-        "id": 1252,
+        "id": 230,
         "c": "Пост гаи въезд или выезд из Краснодара"
       },
       "geometry": {
@@ -2853,9 +2853,9 @@
     },
     {
       "type": "Feature",
-      "id": 1253,
+      "id": 231,
       "properties": {
-        "id": 1253,
+        "id": 231,
         "c": "Машина с камерой в районе АЗС ТАТНефть"
       },
       "geometry": {
@@ -2868,9 +2868,9 @@
     },
     {
       "type": "Feature",
-      "id": 1254,
+      "id": 232,
       "properties": {
-        "id": 1254,
+        "id": 232,
         "c": ""
       },
       "geometry": {
@@ -2883,9 +2883,9 @@
     },
     {
       "type": "Feature",
-      "id": 1255,
+      "id": 233,
       "properties": {
-        "id": 1255,
+        "id": 233,
         "c": "Рамка Платона село Раздольное трасса А 160"
       },
       "geometry": {
@@ -2898,9 +2898,9 @@
     },
     {
       "type": "Feature",
-      "id": 1257,
+      "id": 235,
       "properties": {
-        "id": 1257,
+        "id": 235,
         "c": "поворот на Осьмино"
       },
       "geometry": {
@@ -2913,9 +2913,9 @@
     },
     {
       "type": "Feature",
-      "id": 1258,
+      "id": 236,
       "properties": {
-        "id": 1258,
+        "id": 236,
         "c": "пост ГИБДД в сторону Еката постоянно дежурит машина"
       },
       "geometry": {
@@ -2928,9 +2928,9 @@
     },
     {
       "type": "Feature",
-      "id": 1259,
+      "id": 237,
       "properties": {
-        "id": 1259,
+        "id": 237,
         "c": ""
       },
       "geometry": {
@@ -2943,9 +2943,9 @@
     },
     {
       "type": "Feature",
-      "id": 1260,
+      "id": 238,
       "properties": {
-        "id": 1260,
+        "id": 238,
         "c": ""
       },
       "geometry": {
@@ -2958,9 +2958,9 @@
     },
     {
       "type": "Feature",
-      "id": 1261,
+      "id": 239,
       "properties": {
-        "id": 1261,
+        "id": 239,
         "c": ""
       },
       "geometry": {
@@ -2973,9 +2973,9 @@
     },
     {
       "type": "Feature",
-      "id": 1262,
+      "id": 240,
       "properties": {
-        "id": 1262,
+        "id": 240,
         "c": ""
       },
       "geometry": {
@@ -2988,9 +2988,9 @@
     },
     {
       "type": "Feature",
-      "id": 1263,
+      "id": 241,
       "properties": {
-        "id": 1263,
+        "id": 241,
         "c": ""
       },
       "geometry": {
@@ -3003,9 +3003,9 @@
     },
     {
       "type": "Feature",
-      "id": 1265,
+      "id": 243,
       "properties": {
-        "id": 1265,
+        "id": 243,
         "c": ""
       },
       "geometry": {
@@ -3018,9 +3018,9 @@
     },
     {
       "type": "Feature",
-      "id": 1267,
+      "id": 245,
       "properties": {
-        "id": 1267,
+        "id": 245,
         "c": ""
       },
       "geometry": {
@@ -3033,9 +3033,9 @@
     },
     {
       "type": "Feature",
-      "id": 1269,
+      "id": 247,
       "properties": {
-        "id": 1269,
+        "id": 247,
         "c": ""
       },
       "geometry": {
@@ -3048,9 +3048,9 @@
     },
     {
       "type": "Feature",
-      "id": 1270,
+      "id": 248,
       "properties": {
-        "id": 1270,
+        "id": 248,
         "c": "В сторону г. Вологда"
       },
       "geometry": {
@@ -3063,9 +3063,9 @@
     },
     {
       "type": "Feature",
-      "id": 1271,
+      "id": 249,
       "properties": {
-        "id": 1271,
+        "id": 249,
         "c": "В сторону г. Череповец"
       },
       "geometry": {
@@ -3078,9 +3078,9 @@
     },
     {
       "type": "Feature",
-      "id": 1272,
+      "id": 250,
       "properties": {
-        "id": 1272,
+        "id": 250,
         "c": "В сторону Ярославля"
       },
       "geometry": {
@@ -3093,9 +3093,9 @@
     },
     {
       "type": "Feature",
-      "id": 1274,
+      "id": 252,
       "properties": {
-        "id": 1274,
+        "id": 252,
         "c": "Трасса Ростов-на-Дону - Таганрог"
       },
       "geometry": {
@@ -3108,9 +3108,9 @@
     },
     {
       "type": "Feature",
-      "id": 1275,
+      "id": 253,
       "properties": {
-        "id": 1275,
+        "id": 253,
         "c": "Автодорога М23 примерно 500м в сторону с. Самбек"
       },
       "geometry": {
@@ -3123,9 +3123,9 @@
     },
     {
       "type": "Feature",
-      "id": 1276,
+      "id": 254,
       "properties": {
-        "id": 1276,
+        "id": 254,
         "c": "На подъезде к Липецку со стороны Ельца в районе деревни Косыревка"
       },
       "geometry": {
@@ -3138,9 +3138,9 @@
     },
     {
       "type": "Feature",
-      "id": 1280,
+      "id": 258,
       "properties": {
-        "id": 1280,
+        "id": 258,
         "c": ""
       },
       "geometry": {
@@ -3153,9 +3153,9 @@
     },
     {
       "type": "Feature",
-      "id": 1281,
+      "id": 259,
       "properties": {
-        "id": 1281,
+        "id": 259,
         "c": ""
       },
       "geometry": {
@@ -3168,9 +3168,9 @@
     },
     {
       "type": "Feature",
-      "id": 1282,
+      "id": 260,
       "properties": {
-        "id": 1282,
+        "id": 260,
         "c": ""
       },
       "geometry": {
@@ -3183,9 +3183,9 @@
     },
     {
       "type": "Feature",
-      "id": 1283,
+      "id": 261,
       "properties": {
-        "id": 1283,
+        "id": 261,
         "c": "на границе Россия - РБ"
       },
       "geometry": {
@@ -3198,9 +3198,9 @@
     },
     {
       "type": "Feature",
-      "id": 1284,
+      "id": 262,
       "properties": {
-        "id": 1284,
+        "id": 262,
         "c": "п. Змиёвка. Орловская область"
       },
       "geometry": {
@@ -3213,9 +3213,9 @@
     },
     {
       "type": "Feature",
-      "id": 1285,
+      "id": 263,
       "properties": {
-        "id": 1285,
+        "id": 263,
         "c": "п. Покровское. Орловская область"
       },
       "geometry": {
@@ -3228,9 +3228,9 @@
     },
     {
       "type": "Feature",
-      "id": 1286,
+      "id": 264,
       "properties": {
-        "id": 1286,
+        "id": 264,
         "c": "п. Образцово. Орловская область"
       },
       "geometry": {
@@ -3243,9 +3243,9 @@
     },
     {
       "type": "Feature",
-      "id": 1287,
+      "id": 265,
       "properties": {
-        "id": 1287,
+        "id": 265,
         "c": "Модератору - уберите рамку в районе Коптёвки - Репьёвки. Кто-то установил по ошибке или намеренно. Постоянном там езжу - в том районе нет рамок вообще ни каких!!!"
       },
       "geometry": {
@@ -3258,9 +3258,9 @@
     },
     {
       "type": "Feature",
-      "id": 1290,
+      "id": 268,
       "properties": {
-        "id": 1290,
+        "id": 268,
         "c": "На выезде из Косыревки"
       },
       "geometry": {
@@ -3273,9 +3273,9 @@
     },
     {
       "type": "Feature",
-      "id": 1291,
+      "id": 269,
       "properties": {
-        "id": 1291,
+        "id": 269,
         "c": "Верхний карачан"
       },
       "geometry": {
@@ -3288,9 +3288,9 @@
     },
     {
       "type": "Feature",
-      "id": 1292,
+      "id": 270,
       "properties": {
-        "id": 1292,
+        "id": 270,
         "c": "Трасса Р-22 Каспий, хутор 1-й Сухов"
       },
       "geometry": {
@@ -3303,9 +3303,9 @@
     },
     {
       "type": "Feature",
-      "id": 1293,
+      "id": 271,
       "properties": {
-        "id": 1293,
+        "id": 271,
         "c": ""
       },
       "geometry": {
@@ -3318,9 +3318,9 @@
     },
     {
       "type": "Feature",
-      "id": 1294,
+      "id": 272,
       "properties": {
-        "id": 1294,
+        "id": 272,
         "c": "5 км после Белоречкнска в сторону  Усть-Лабинска"
       },
       "geometry": {
@@ -3333,9 +3333,9 @@
     },
     {
       "type": "Feature",
-      "id": 1295,
+      "id": 273,
       "properties": {
-        "id": 1295,
+        "id": 273,
         "c": "перед  п Черноморской"
       },
       "geometry": {
@@ -3348,9 +3348,9 @@
     },
     {
       "type": "Feature",
-      "id": 1296,
+      "id": 274,
       "properties": {
-        "id": 1296,
+        "id": 274,
         "c": "1 км за Крымском"
       },
       "geometry": {
@@ -3363,9 +3363,9 @@
     },
     {
       "type": "Feature",
-      "id": 1297,
+      "id": 275,
       "properties": {
-        "id": 1297,
+        "id": 275,
         "c": ""
       },
       "geometry": {
@@ -3378,9 +3378,9 @@
     },
     {
       "type": "Feature",
-      "id": 1299,
+      "id": 277,
       "properties": {
-        "id": 1299,
+        "id": 277,
         "c": "После поста ДПС перед мостом через речку в сторону Новой Ладоги."
       },
       "geometry": {
@@ -3393,9 +3393,9 @@
     },
     {
       "type": "Feature",
-      "id": 1300,
+      "id": 278,
       "properties": {
-        "id": 1300,
+        "id": 278,
         "c": "Посёлок Сазоново перед заправкой Лукойл в сторону СПБ"
       },
       "geometry": {
@@ -3408,9 +3408,9 @@
     },
     {
       "type": "Feature",
-      "id": 1301,
+      "id": 279,
       "properties": {
-        "id": 1301,
+        "id": 279,
         "c": ""
       },
       "geometry": {
@@ -3423,9 +3423,9 @@
     },
     {
       "type": "Feature",
-      "id": 1302,
+      "id": 280,
       "properties": {
-        "id": 1302,
+        "id": 280,
         "c": "Синявино. Выездной контроль направление Петрозаводск."
       },
       "geometry": {
@@ -3438,9 +3438,9 @@
     },
     {
       "type": "Feature",
-      "id": 1303,
+      "id": 281,
       "properties": {
-        "id": 1303,
+        "id": 281,
         "c": ""
       },
       "geometry": {
@@ -3453,9 +3453,9 @@
     },
     {
       "type": "Feature",
-      "id": 1305,
+      "id": 283,
       "properties": {
-        "id": 1305,
+        "id": 283,
         "c": ""
       },
       "geometry": {
@@ -3468,9 +3468,9 @@
     },
     {
       "type": "Feature",
-      "id": 1306,
+      "id": 284,
       "properties": {
-        "id": 1306,
+        "id": 284,
         "c": ""
       },
       "geometry": {
@@ -3483,9 +3483,9 @@
     },
     {
       "type": "Feature",
-      "id": 1308,
+      "id": 286,
       "properties": {
-        "id": 1308,
+        "id": 286,
         "c": "620 км от Москвы"
       },
       "geometry": {
@@ -3498,9 +3498,9 @@
     },
     {
       "type": "Feature",
-      "id": 1309,
+      "id": 287,
       "properties": {
-        "id": 1309,
+        "id": 287,
         "c": "705 км от Москвы"
       },
       "geometry": {
@@ -3513,9 +3513,9 @@
     },
     {
       "type": "Feature",
-      "id": 1310,
+      "id": 288,
       "properties": {
-        "id": 1310,
+        "id": 288,
         "c": "У поста ДПС и поворота на Светляй яр"
       },
       "geometry": {
@@ -3528,9 +3528,9 @@
     },
     {
       "type": "Feature",
-      "id": 1311,
+      "id": 289,
       "properties": {
-        "id": 1311,
+        "id": 289,
         "c": "У поста ДПС при выезде с г.Астрахань на М6"
       },
       "geometry": {
@@ -3543,9 +3543,9 @@
     },
     {
       "type": "Feature",
-      "id": 1313,
+      "id": 291,
       "properties": {
-        "id": 1313,
+        "id": 291,
         "c": "Палужье"
       },
       "geometry": {
@@ -3558,9 +3558,9 @@
     },
     {
       "type": "Feature",
-      "id": 1314,
+      "id": 292,
       "properties": {
-        "id": 1314,
+        "id": 292,
         "c": ""
       },
       "geometry": {
@@ -3573,9 +3573,9 @@
     },
     {
       "type": "Feature",
-      "id": 1318,
+      "id": 296,
       "properties": {
-        "id": 1318,
+        "id": 296,
         "c": "На вьезде в п.Черноморский поставили рамку ... Камер пока нет "
       },
       "geometry": {
@@ -3588,9 +3588,9 @@
     },
     {
       "type": "Feature",
-      "id": 1319,
+      "id": 297,
       "properties": {
-        "id": 1319,
+        "id": 297,
         "c": "в районе д.Ясенево"
       },
       "geometry": {
@@ -3603,9 +3603,9 @@
     },
     {
       "type": "Feature",
-      "id": 1321,
+      "id": 299,
       "properties": {
-        "id": 1321,
+        "id": 299,
         "c": ""
       },
       "geometry": {
@@ -3618,9 +3618,9 @@
     },
     {
       "type": "Feature",
-      "id": 1322,
+      "id": 300,
       "properties": {
-        "id": 1322,
+        "id": 300,
         "c": "На подъезде к д.Лопатницы со стороны г.Иваново"
       },
       "geometry": {
@@ -3633,9 +3633,9 @@
     },
     {
       "type": "Feature",
-      "id": 1327,
+      "id": 303,
       "properties": {
-        "id": 1327,
+        "id": 303,
         "c": "трасса Калуга-Тула. не доезжая тулы 20 км"
       },
       "geometry": {
@@ -3648,9 +3648,9 @@
     },
     {
       "type": "Feature",
-      "id": 1328,
+      "id": 304,
       "properties": {
-        "id": 1328,
+        "id": 304,
         "c": "По А107 после кругового движения со стороны Ярославского шоссе"
       },
       "geometry": {
@@ -3663,9 +3663,9 @@
     },
     {
       "type": "Feature",
-      "id": 1329,
+      "id": 305,
       "properties": {
-        "id": 1329,
+        "id": 305,
         "c": "АЗС"
       },
       "geometry": {
@@ -3678,9 +3678,9 @@
     },
     {
       "type": "Feature",
-      "id": 1330,
+      "id": 306,
       "properties": {
-        "id": 1330,
+        "id": 306,
         "c": "АГЗС"
       },
       "geometry": {
@@ -3693,9 +3693,9 @@
     },
     {
       "type": "Feature",
-      "id": 1332,
+      "id": 308,
       "properties": {
-        "id": 1332,
+        "id": 308,
         "c": "АЗС"
       },
       "geometry": {
@@ -3708,9 +3708,9 @@
     },
     {
       "type": "Feature",
-      "id": 1333,
+      "id": 309,
       "properties": {
-        "id": 1333,
+        "id": 309,
         "c": "перед заправкой"
       },
       "geometry": {
@@ -3723,9 +3723,9 @@
     },
     {
       "type": "Feature",
-      "id": 1334,
+      "id": 310,
       "properties": {
-        "id": 1334,
+        "id": 310,
         "c": "новая , скоро заработает"
       },
       "geometry": {
@@ -3738,9 +3738,9 @@
     },
     {
       "type": "Feature",
-      "id": 1335,
+      "id": 311,
       "properties": {
-        "id": 1335,
+        "id": 311,
         "c": "новая, скоро заработает"
       },
       "geometry": {
@@ -3753,9 +3753,9 @@
     },
     {
       "type": "Feature",
-      "id": 1337,
+      "id": 313,
       "properties": {
-        "id": 1337,
+        "id": 313,
         "c": "из челябинска в сторону москвы после Иглино развязка.въезд в уфу.первый из челябинска,последний со стороны москвы"
       },
       "geometry": {
@@ -3768,9 +3768,9 @@
     },
     {
       "type": "Feature",
-      "id": 1338,
+      "id": 314,
       "properties": {
-        "id": 1338,
+        "id": 314,
         "c": "со стороны Москвы рядом с постом ДПС, 1454 км 138 м трассы М5 \"Урал\""
       },
       "geometry": {
@@ -3783,9 +3783,9 @@
     },
     {
       "type": "Feature",
-      "id": 1339,
+      "id": 315,
       "properties": {
-        "id": 1339,
+        "id": 315,
         "c": "со стороны Москвы через 300 метром после рынка Петушок,после речки"
       },
       "geometry": {
@@ -3798,9 +3798,9 @@
     },
     {
       "type": "Feature",
-      "id": 1340,
+      "id": 316,
       "properties": {
-        "id": 1340,
+        "id": 316,
         "c": "со стороны пензы в сторону тамбова сразу после Загоскино"
       },
       "geometry": {
@@ -3813,9 +3813,9 @@
     },
     {
       "type": "Feature",
-      "id": 1341,
+      "id": 317,
       "properties": {
-        "id": 1341,
+        "id": 317,
         "c": "со стороны пенза в сторону тамбова  сразу после крюково"
       },
       "geometry": {
@@ -3828,9 +3828,9 @@
     },
     {
       "type": "Feature",
-      "id": 1342,
+      "id": 318,
       "properties": {
-        "id": 1342,
+        "id": 318,
         "c": "При движении от Порхова в Сольцы перед первым поворотом на Боровичи."
       },
       "geometry": {
@@ -3843,9 +3843,9 @@
     },
     {
       "type": "Feature",
-      "id": 1343,
+      "id": 319,
       "properties": {
-        "id": 1343,
+        "id": 319,
         "c": "по направлению от ст. Кирпильская в сторону г Усть-Лабинск"
       },
       "geometry": {
@@ -3858,9 +3858,9 @@
     },
     {
       "type": "Feature",
-      "id": 1345,
+      "id": 321,
       "properties": {
-        "id": 1345,
+        "id": 321,
         "c": "поворот на красный май"
       },
       "geometry": {
@@ -3873,9 +3873,9 @@
     },
     {
       "type": "Feature",
-      "id": 1346,
+      "id": 322,
       "properties": {
-        "id": 1346,
+        "id": 322,
         "c": "Авдотьинка"
       },
       "geometry": {
@@ -3888,9 +3888,9 @@
     },
     {
       "type": "Feature",
-      "id": 1351,
+      "id": 327,
       "properties": {
-        "id": 1351,
+        "id": 327,
         "c": "Сызрань. Перед  Газпром-нефть на Москву"
       },
       "geometry": {
@@ -3903,9 +3903,9 @@
     },
     {
       "type": "Feature",
-      "id": 1352,
+      "id": 328,
       "properties": {
-        "id": 1352,
+        "id": 328,
         "c": "Жигулёвск. На спуске перед железкой в сторону Самары"
       },
       "geometry": {
@@ -3918,9 +3918,9 @@
     },
     {
       "type": "Feature",
-      "id": 1354,
+      "id": 330,
       "properties": {
-        "id": 1354,
+        "id": 330,
         "c": "Челябинск. После моста на объездную на Курган"
       },
       "geometry": {
@@ -3933,9 +3933,9 @@
     },
     {
       "type": "Feature",
-      "id": 1355,
+      "id": 331,
       "properties": {
-        "id": 1355,
+        "id": 331,
         "c": "Курган. После газпрома в сторону Омска"
       },
       "geometry": {
@@ -3948,9 +3948,9 @@
     },
     {
       "type": "Feature",
-      "id": 1356,
+      "id": 332,
       "properties": {
-        "id": 1356,
+        "id": 332,
         "c": "Макушино, перед круговым "
       },
       "geometry": {
@@ -3963,9 +3963,9 @@
     },
     {
       "type": "Feature",
-      "id": 1357,
+      "id": 333,
       "properties": {
-        "id": 1357,
+        "id": 333,
         "c": "Ковалёво. После АЗС Топлайн в сторону Новосибирска"
       },
       "geometry": {
@@ -3978,9 +3978,9 @@
     },
     {
       "type": "Feature",
-      "id": 1359,
+      "id": 335,
       "properties": {
-        "id": 1359,
+        "id": 335,
         "c": "деревня Сябреницы"
       },
       "geometry": {
@@ -3993,9 +3993,9 @@
     },
     {
       "type": "Feature",
-      "id": 1360,
+      "id": 336,
       "properties": {
-        "id": 1360,
+        "id": 336,
         "c": "поселок Заволжский на входе со стороны Питера"
       },
       "geometry": {
@@ -4008,9 +4008,9 @@
     },
     {
       "type": "Feature",
-      "id": 1361,
+      "id": 337,
       "properties": {
-        "id": 1361,
+        "id": 337,
         "c": "перед деревней Первомайское со стороны Питера"
       },
       "geometry": {
@@ -4023,9 +4023,9 @@
     },
     {
       "type": "Feature",
-      "id": 1362,
+      "id": 338,
       "properties": {
-        "id": 1362,
+        "id": 338,
         "c": "Между Зимогорьем и поворотом на Боровичи в низине."
       },
       "geometry": {
@@ -4038,9 +4038,9 @@
     },
     {
       "type": "Feature",
-      "id": 1363,
+      "id": 339,
       "properties": {
-        "id": 1363,
+        "id": 339,
         "c": "Между деревней Дорки и поворотом на Красный Май"
       },
       "geometry": {
@@ -4053,9 +4053,9 @@
     },
     {
       "type": "Feature",
-      "id": 1364,
+      "id": 340,
       "properties": {
-        "id": 1364,
+        "id": 340,
         "c": "Недалеко от весовой"
       },
       "geometry": {
@@ -4068,9 +4068,9 @@
     },
     {
       "type": "Feature",
-      "id": 1365,
+      "id": 341,
       "properties": {
-        "id": 1365,
+        "id": 341,
         "c": "Трасса Пермь - Екатеринбург, в р-не Кунгура"
       },
       "geometry": {
@@ -4083,9 +4083,9 @@
     },
     {
       "type": "Feature",
-      "id": 1366,
+      "id": 342,
       "properties": {
-        "id": 1366,
+        "id": 342,
         "c": "д.Рановка"
       },
       "geometry": {
@@ -4098,9 +4098,9 @@
     },
     {
       "type": "Feature",
-      "id": 1367,
+      "id": 343,
       "properties": {
-        "id": 1367,
+        "id": 343,
         "c": "На трассе возле Кузнецовского КПП."
       },
       "geometry": {
@@ -4113,9 +4113,9 @@
     },
     {
       "type": "Feature",
-      "id": 1368,
+      "id": 344,
       "properties": {
-        "id": 1368,
+        "id": 344,
         "c": "На развилке дороги Ангарск-Иркутск"
       },
       "geometry": {
@@ -4128,9 +4128,9 @@
     },
     {
       "type": "Feature",
-      "id": 1369,
+      "id": 345,
       "properties": {
-        "id": 1369,
+        "id": 345,
         "c": "Богородское"
       },
       "geometry": {
@@ -4143,9 +4143,9 @@
     },
     {
       "type": "Feature",
-      "id": 1372,
+      "id": 348,
       "properties": {
-        "id": 1372,
+        "id": 348,
         "c": "М5 С МОСКВЫ ПЕРЕД Д.ВЫСОКОЕ РЯЗАНСКОЙ ОБЛАСТИ"
       },
       "geometry": {
@@ -4158,9 +4158,9 @@
     },
     {
       "type": "Feature",
-      "id": 1374,
+      "id": 350,
       "properties": {
-        "id": 1374,
+        "id": 350,
         "c": "Р-180 ПЕРЕД ПОВОРОТОМ НА ПЕНЗУ ПО НАПРАВЛЕНИЮ К САРАНСКУ"
       },
       "geometry": {
@@ -4173,9 +4173,9 @@
     },
     {
       "type": "Feature",
-      "id": 1375,
+      "id": 351,
       "properties": {
-        "id": 1375,
+        "id": 351,
         "c": "М5 С МОСКВЫ ПЕРЕД РАЗВЯЗКОЙ НА УФУ"
       },
       "geometry": {
@@ -4188,9 +4188,9 @@
     },
     {
       "type": "Feature",
-      "id": 1376,
+      "id": 352,
       "properties": {
-        "id": 1376,
+        "id": 352,
         "c": "ВЪЕЗД  В САМАРУ С ОРЕНБУРГА УЛ УРАЛСКАЯ"
       },
       "geometry": {
@@ -4203,9 +4203,9 @@
     },
     {
       "type": "Feature",
-      "id": 1378,
+      "id": 354,
       "properties": {
-        "id": 1378,
+        "id": 354,
         "c": "трасса А 107, съезд на А 107 с Егорьевского шоссе в сторону Электростали"
       },
       "geometry": {
@@ -4218,9 +4218,9 @@
     },
     {
       "type": "Feature",
-      "id": 1380,
+      "id": 356,
       "properties": {
-        "id": 1380,
+        "id": 356,
         "c": "рамка Платона с камерами "
       },
       "geometry": {
@@ -4233,9 +4233,9 @@
     },
     {
       "type": "Feature",
-      "id": 1382,
+      "id": 358,
       "properties": {
-        "id": 1382,
+        "id": 358,
         "c": "Трасса М9 в сторону Риги после развязки на г.Нелидово примерно 300-500м"
       },
       "geometry": {
@@ -4248,9 +4248,9 @@
     },
     {
       "type": "Feature",
-      "id": 1383,
+      "id": 359,
       "properties": {
-        "id": 1383,
+        "id": 359,
         "c": "Трасса М9 в сторону Риги после развязки на г.Великие Луки 300-500м"
       },
       "geometry": {
@@ -4263,9 +4263,9 @@
     },
     {
       "type": "Feature",
-      "id": 1384,
+      "id": 360,
       "properties": {
-        "id": 1384,
+        "id": 360,
         "c": "Трасса М9 в сторону Риги, не доезжая съезда на Пустошка перед АЗС Сургутнефтегаз"
       },
       "geometry": {
@@ -4278,9 +4278,9 @@
     },
     {
       "type": "Feature",
-      "id": 1385,
+      "id": 361,
       "properties": {
-        "id": 1385,
+        "id": 361,
         "c": "Трасса Р-23 после г.Опочка недоезжая АЗС Статойл"
       },
       "geometry": {
@@ -4293,9 +4293,9 @@
     },
     {
       "type": "Feature",
-      "id": 1386,
+      "id": 362,
       "properties": {
-        "id": 1386,
+        "id": 362,
         "c": "Трасса Р-23 перед мостом через р.Великая перед г.Остров"
       },
       "geometry": {
@@ -4308,9 +4308,9 @@
     },
     {
       "type": "Feature",
-      "id": 1387,
+      "id": 363,
       "properties": {
-        "id": 1387,
+        "id": 363,
         "c": "Трасса Р-23 недоедая посёлка Череха"
       },
       "geometry": {
@@ -4323,9 +4323,9 @@
     },
     {
       "type": "Feature",
-      "id": 1389,
+      "id": 365,
       "properties": {
-        "id": 1389,
+        "id": 365,
         "c": "где бывший пост ДПС"
       },
       "geometry": {
@@ -4338,9 +4338,9 @@
     },
     {
       "type": "Feature",
-      "id": 1390,
+      "id": 366,
       "properties": {
-        "id": 1390,
+        "id": 366,
         "c": "с одной и с другой стороны развязки"
       },
       "geometry": {
@@ -4353,9 +4353,9 @@
     },
     {
       "type": "Feature",
-      "id": 1391,
+      "id": 367,
       "properties": {
-        "id": 1391,
+        "id": 367,
         "c": "Тамбовка, сразу после моста."
       },
       "geometry": {
@@ -4368,9 +4368,9 @@
     },
     {
       "type": "Feature",
-      "id": 1393,
+      "id": 369,
       "properties": {
-        "id": 1393,
+        "id": 369,
         "c": "А-108, от Егорьевского ш. в п. Куровское."
       },
       "geometry": {
@@ -4383,9 +4383,9 @@
     },
     {
       "type": "Feature",
-      "id": 1398,
+      "id": 374,
       "properties": {
-        "id": 1398,
+        "id": 374,
         "c": "С.Бегуницы"
       },
       "geometry": {
@@ -4398,9 +4398,9 @@
     },
     {
       "type": "Feature",
-      "id": 1399,
+      "id": 375,
       "properties": {
-        "id": 1399,
+        "id": 375,
         "c": "на выезде из д.Черемыкино в сторону С.Петербурга"
       },
       "geometry": {
@@ -4413,9 +4413,9 @@
     },
     {
       "type": "Feature",
-      "id": 1402,
+      "id": 378,
       "properties": {
-        "id": 1402,
+        "id": 378,
         "c": "Перед Ижевской развязкой"
       },
       "geometry": {
@@ -4428,9 +4428,9 @@
     },
     {
       "type": "Feature",
-      "id": 1403,
+      "id": 379,
       "properties": {
-        "id": 1403,
+        "id": 379,
         "c": "Верхняя Талица"
       },
       "geometry": {
@@ -4443,9 +4443,9 @@
     },
     {
       "type": "Feature",
-      "id": 1405,
+      "id": 381,
       "properties": {
-        "id": 1405,
+        "id": 381,
         "c": "Недалеко от АЗС Газпром 444км"
       },
       "geometry": {
@@ -4458,9 +4458,9 @@
     },
     {
       "type": "Feature",
-      "id": 1406,
+      "id": 382,
       "properties": {
-        "id": 1406,
+        "id": 382,
         "c": "Возле АЗС Газпромнефть 96 км"
       },
       "geometry": {
@@ -4473,9 +4473,9 @@
     },
     {
       "type": "Feature",
-      "id": 1407,
+      "id": 383,
       "properties": {
-        "id": 1407,
+        "id": 383,
         "c": "Перед развязкой на ЕКад"
       },
       "geometry": {
@@ -4488,9 +4488,9 @@
     },
     {
       "type": "Feature",
-      "id": 1410,
+      "id": 386,
       "properties": {
-        "id": 1410,
+        "id": 386,
         "c": "Тарутино"
       },
       "geometry": {
@@ -4503,9 +4503,9 @@
     },
     {
       "type": "Feature",
-      "id": 1411,
+      "id": 387,
       "properties": {
-        "id": 1411,
+        "id": 387,
         "c": "Лесной Городок (Чита)"
       },
       "geometry": {
@@ -4518,9 +4518,9 @@
     },
     {
       "type": "Feature",
-      "id": 1412,
+      "id": 388,
       "properties": {
-        "id": 1412,
+        "id": 388,
         "c": "Емельяново (Красноярск)"
       },
       "geometry": {
@@ -4533,9 +4533,9 @@
     },
     {
       "type": "Feature",
-      "id": 1413,
+      "id": 389,
       "properties": {
-        "id": 1413,
+        "id": 389,
         "c": "Иркутск"
       },
       "geometry": {
@@ -4548,9 +4548,9 @@
     },
     {
       "type": "Feature",
-      "id": 1414,
+      "id": 390,
       "properties": {
-        "id": 1414,
+        "id": 390,
         "c": "г. Жигулевск"
       },
       "geometry": {
@@ -4563,9 +4563,9 @@
     },
     {
       "type": "Feature",
-      "id": 1415,
+      "id": 391,
       "properties": {
-        "id": 1415,
+        "id": 391,
         "c": "Рамка на выезде из Черкесска на Пятигорск. Сразу после кольца."
       },
       "geometry": {
@@ -4578,9 +4578,9 @@
     },
     {
       "type": "Feature",
-      "id": 1426,
+      "id": 402,
       "properties": {
-        "id": 1426,
+        "id": 402,
         "c": "рамка в Гостилово"
       },
       "geometry": {
@@ -4593,9 +4593,9 @@
     },
     {
       "type": "Feature",
-      "id": 1427,
+      "id": 403,
       "properties": {
-        "id": 1427,
+        "id": 403,
         "c": "48.202300 *40.024004 координаты\n"
       },
       "geometry": {
@@ -4608,9 +4608,9 @@
     },
     {
       "type": "Feature",
-      "id": 1429,
+      "id": 405,
       "properties": {
-        "id": 1429,
+        "id": 405,
         "c": "Трасса Р216 \"Астрахань-Элиста\" 69 км, в сторону Элисты"
       },
       "geometry": {
@@ -4623,9 +4623,9 @@
     },
     {
       "type": "Feature",
-      "id": 1430,
+      "id": 406,
       "properties": {
-        "id": 1430,
+        "id": 406,
         "c": "С.Старый Хопер"
       },
       "geometry": {
@@ -4638,9 +4638,9 @@
     },
     {
       "type": "Feature",
-      "id": 1431,
+      "id": 407,
       "properties": {
-        "id": 1431,
+        "id": 407,
         "c": "М2 У поста ДПС перед р.Ока"
       },
       "geometry": {
@@ -4653,9 +4653,9 @@
     },
     {
       "type": "Feature",
-      "id": 1432,
+      "id": 408,
       "properties": {
-        "id": 1432,
+        "id": 408,
         "c": "А107  за 2 км  перед М11 со стороны Рогачевского шоссе."
       },
       "geometry": {
@@ -4668,9 +4668,9 @@
     },
     {
       "type": "Feature",
-      "id": 1434,
+      "id": 410,
       "properties": {
-        "id": 1434,
+        "id": 410,
         "c": "Перед постом ГАИ, если ехать со стороны Армавира"
       },
       "geometry": {
@@ -4683,9 +4683,9 @@
     },
     {
       "type": "Feature",
-      "id": 1436,
+      "id": 412,
       "properties": {
-        "id": 1436,
+        "id": 412,
         "c": "Р217 на 329 км (около стоянки),р217 209 км на посту ДПС,р217 89 и 91км в г.Кропоткин"
       },
       "geometry": {
@@ -4698,9 +4698,9 @@
     },
     {
       "type": "Feature",
-      "id": 1437,
+      "id": 413,
       "properties": {
-        "id": 1437,
+        "id": 413,
         "c": "п. Клюква"
       },
       "geometry": {
@@ -4713,9 +4713,9 @@
     },
     {
       "type": "Feature",
-      "id": 1438,
+      "id": 414,
       "properties": {
-        "id": 1438,
+        "id": 414,
         "c": "за заправкой татнефть в сторону Кургана"
       },
       "geometry": {
@@ -4728,9 +4728,9 @@
     },
     {
       "type": "Feature",
-      "id": 1439,
+      "id": 415,
       "properties": {
-        "id": 1439,
+        "id": 415,
         "c": "250 метров от газпрома на север"
       },
       "geometry": {
@@ -4743,9 +4743,9 @@
     },
     {
       "type": "Feature",
-      "id": 1440,
+      "id": 416,
       "properties": {
-        "id": 1440,
+        "id": 416,
         "c": "327 км Тюмень-Сургут"
       },
       "geometry": {
@@ -4758,9 +4758,9 @@
     },
     {
       "type": "Feature",
-      "id": 1441,
+      "id": 417,
       "properties": {
-        "id": 1441,
+        "id": 417,
         "c": "31 км Нефтюганск-Сургут"
       },
       "geometry": {
@@ -4773,9 +4773,9 @@
     },
     {
       "type": "Feature",
-      "id": 1442,
+      "id": 418,
       "properties": {
-        "id": 1442,
+        "id": 418,
         "c": "Салым перед мостом 100м до переезда"
       },
       "geometry": {
@@ -4788,9 +4788,9 @@
     },
     {
       "type": "Feature",
-      "id": 1443,
+      "id": 419,
       "properties": {
-        "id": 1443,
+        "id": 419,
         "c": "азс, жд переезд"
       },
       "geometry": {
@@ -4803,9 +4803,9 @@
     },
     {
       "type": "Feature",
-      "id": 1446,
+      "id": 422,
       "properties": {
-        "id": 1446,
+        "id": 422,
         "c": "Ессентуки-Кисловодск в р-не Подкумок"
       },
       "geometry": {
@@ -4818,9 +4818,9 @@
     },
     {
       "type": "Feature",
-      "id": 1447,
+      "id": 423,
       "properties": {
-        "id": 1447,
+        "id": 423,
         "c": "Через 200 м после съезда с объездной дороги на дорогу Челябинск-Екатеринбург в сторону Екатеринбурга"
       },
       "geometry": {
@@ -4833,9 +4833,9 @@
     },
     {
       "type": "Feature",
-      "id": 1448,
+      "id": 424,
       "properties": {
-        "id": 1448,
+        "id": 424,
         "c": "Между деревней Сары и деревней Еманжелинка, перед развязкой на Еткуль со сторны Челябинска"
       },
       "geometry": {
@@ -4848,9 +4848,9 @@
     },
     {
       "type": "Feature",
-      "id": 1450,
+      "id": 425,
       "properties": {
-        "id": 1450,
+        "id": 425,
         "c": "М5 Тюбук-Сысерть 117 км"
       },
       "geometry": {
@@ -4863,9 +4863,9 @@
     },
     {
       "type": "Feature",
-      "id": 1455,
+      "id": 426,
       "properties": {
-        "id": 1455,
+        "id": 426,
         "c": "Тюмень-Сургут , 1 км не доезжая до поворота на Сентябрьский"
       },
       "geometry": {
@@ -4878,9 +4878,9 @@
     },
     {
       "type": "Feature",
-      "id": 1457,
+      "id": 427,
       "properties": {
-        "id": 1457,
+        "id": 427,
         "c": "чуть не доезжая Донецка"
       },
       "geometry": {
@@ -4893,9 +4893,9 @@
     },
     {
       "type": "Feature",
-      "id": 1459,
+      "id": 428,
       "properties": {
-        "id": 1459,
+        "id": 428,
         "c": "Трасса Р158, 311 метров от поворота (со светофором) на Рузаевку в сторону Пензы, рядом с АЗС \"Лукойл\""
       },
       "geometry": {
@@ -4908,9 +4908,9 @@
     },
     {
       "type": "Feature",
-      "id": 1461,
+      "id": 429,
       "properties": {
-        "id": 1461,
+        "id": 429,
         "c": "А310 \"Челябинск-Троицк\" 44 км направление Коркино-Еманжелинск"
       },
       "geometry": {
@@ -4923,9 +4923,9 @@
     },
     {
       "type": "Feature",
-      "id": 1467,
+      "id": 434,
       "properties": {
-        "id": 1467,
+        "id": 434,
         "c": "Шумиха \n55°15′24.08″N, 63°15′56.82″E"
       },
       "geometry": {
@@ -4938,9 +4938,9 @@
     },
     {
       "type": "Feature",
-      "id": 1471,
+      "id": 438,
       "properties": {
-        "id": 1471,
+        "id": 438,
         "c": "мячково"
       },
       "geometry": {
@@ -4953,9 +4953,9 @@
     },
     {
       "type": "Feature",
-      "id": 1472,
+      "id": 439,
       "properties": {
-        "id": 1472,
+        "id": 439,
         "c": "Г.Цивильск"
       },
       "geometry": {
@@ -4968,9 +4968,9 @@
     },
     {
       "type": "Feature",
-      "id": 1476,
+      "id": 443,
       "properties": {
-        "id": 1476,
+        "id": 443,
         "c": "Софийская улица, на выезд из города"
       },
       "geometry": {
@@ -4983,9 +4983,9 @@
     },
     {
       "type": "Feature",
-      "id": 1477,
+      "id": 444,
       "properties": {
-        "id": 1477,
+        "id": 444,
         "c": "М7, 574 км + 448м направление Воротынец - Никольское"
       },
       "geometry": {
@@ -4998,9 +4998,9 @@
     },
     {
       "type": "Feature",
-      "id": 1478,
+      "id": 445,
       "properties": {
-        "id": 1478,
+        "id": 445,
         "c": "на М5 в районе п.Суходол"
       },
       "geometry": {
@@ -5013,9 +5013,9 @@
     },
     {
       "type": "Feature",
-      "id": 1479,
+      "id": 446,
       "properties": {
-        "id": 1479,
+        "id": 446,
         "c": "М7, 574 км, направление Воротынец - Никольское"
       },
       "geometry": {
@@ -5028,9 +5028,9 @@
     },
     {
       "type": "Feature",
-      "id": 1482,
+      "id": 449,
       "properties": {
-        "id": 1482,
+        "id": 449,
         "c": "1258 км трассы Кола. ( информация с квитанции о штрафе)"
       },
       "geometry": {
@@ -5043,9 +5043,9 @@
     },
     {
       "type": "Feature",
-      "id": 1484,
+      "id": 451,
       "properties": {
-        "id": 1484,
+        "id": 451,
         "c": "Перед развилкой на Красный Октябрь"
       },
       "geometry": {
@@ -5058,9 +5058,9 @@
     },
     {
       "type": "Feature",
-      "id": 1485,
+      "id": 452,
       "properties": {
-        "id": 1485,
+        "id": 452,
         "c": "82 км Москва-Серпухов"
       },
       "geometry": {
@@ -5073,9 +5073,9 @@
     },
     {
       "type": "Feature",
-      "id": 1487,
+      "id": 454,
       "properties": {
-        "id": 1487,
+        "id": 454,
         "c": "М5 перед перекрестком  на Утёвку и Трофимовка"
       },
       "geometry": {
@@ -5088,9 +5088,9 @@
     },
     {
       "type": "Feature",
-      "id": 1488,
+      "id": 455,
       "properties": {
-        "id": 1488,
+        "id": 455,
         "c": "179км за развязкой старый пост ДПС"
       },
       "geometry": {
@@ -5103,9 +5103,9 @@
     },
     {
       "type": "Feature",
-      "id": 1489,
+      "id": 456,
       "properties": {
-        "id": 1489,
+        "id": 456,
         "c": "Между Галкино и Новоживотинное"
       },
       "geometry": {
@@ -5118,9 +5118,9 @@
     },
     {
       "type": "Feature",
-      "id": 1493,
+      "id": 460,
       "properties": {
-        "id": 1493,
+        "id": 460,
         "c": "Перед ЕКАД на г.Пермь"
       },
       "geometry": {
@@ -5133,9 +5133,9 @@
     },
     {
       "type": "Feature",
-      "id": 1494,
+      "id": 461,
       "properties": {
-        "id": 1494,
+        "id": 461,
         "c": "Сразу после съезда с объездной г.Тюмень на Тобольский тр-т"
       },
       "geometry": {
@@ -5148,9 +5148,9 @@
     },
     {
       "type": "Feature",
-      "id": 1495,
+      "id": 462,
       "properties": {
-        "id": 1495,
+        "id": 462,
         "c": "Перед поворотом на Пыть-Ях,не доезжая до объездной."
       },
       "geometry": {
@@ -5163,9 +5163,9 @@
     },
     {
       "type": "Feature",
-      "id": 1496,
+      "id": 463,
       "properties": {
-        "id": 1496,
+        "id": 463,
         "c": "Зуова Щель"
       },
       "geometry": {
@@ -5178,9 +5178,9 @@
     },
     {
       "type": "Feature",
-      "id": 1497,
+      "id": 464,
       "properties": {
-        "id": 1497,
+        "id": 464,
         "c": "перед поворотом на хвалынск"
       },
       "geometry": {
@@ -5193,9 +5193,9 @@
     },
     {
       "type": "Feature",
-      "id": 1498,
+      "id": 465,
       "properties": {
-        "id": 1498,
+        "id": 465,
         "c": "Сторожевка"
       },
       "geometry": {
@@ -5208,9 +5208,9 @@
     },
     {
       "type": "Feature",
-      "id": 1501,
+      "id": 468,
       "properties": {
-        "id": 1501,
+        "id": 468,
         "c": "Р217 ,91км"
       },
       "geometry": {
@@ -5223,9 +5223,9 @@
     },
     {
       "type": "Feature",
-      "id": 1502,
+      "id": 469,
       "properties": {
-        "id": 1502,
+        "id": 469,
         "c": "координат рамки 45.874747, 47.601506"
       },
       "geometry": {
@@ -5238,9 +5238,9 @@
     },
     {
       "type": "Feature",
-      "id": 1503,
+      "id": 470,
       "properties": {
-        "id": 1503,
+        "id": 470,
         "c": "571 км от Москвы перед пос. Подгорное"
       },
       "geometry": {
@@ -5253,9 +5253,9 @@
     },
     {
       "type": "Feature",
-      "id": 1507,
+      "id": 474,
       "properties": {
-        "id": 1507,
+        "id": 474,
         "c": "трасса р-158 поворот на Лопатино"
       },
       "geometry": {
@@ -5268,9 +5268,9 @@
     },
     {
       "type": "Feature",
-      "id": 1508,
+      "id": 475,
       "properties": {
-        "id": 1508,
+        "id": 475,
         "c": "После проезда АЗС BP на М10 505 км, 4 Новгородский район, Новгородская область, на развязке подъема на мост  стоит передвижной пункт. Координаты 58.516167, 31.674730"
       },
       "geometry": {
@@ -5283,9 +5283,9 @@
     },
     {
       "type": "Feature",
-      "id": 1509,
+      "id": 476,
       "properties": {
-        "id": 1509,
+        "id": 476,
         "c": "Перед п. Новосельское со стороны Армавира"
       },
       "geometry": {
@@ -5298,9 +5298,9 @@
     },
     {
       "type": "Feature",
-      "id": 1510,
+      "id": 477,
       "properties": {
-        "id": 1510,
+        "id": 477,
         "c": "М10 \"Россия\", 223км+070м, направление Медное-Торжок, между поворотами на Гальков и Восход"
       },
       "geometry": {
@@ -5313,9 +5313,9 @@
     },
     {
       "type": "Feature",
-      "id": 1511,
+      "id": 478,
       "properties": {
-        "id": 1511,
+        "id": 478,
         "c": "Построили новую рамку, сквозная в обе стороны: М2 \"Крым\" 47км+020м, по направлению в москву после пересечения с А107 примерно через 1 км перед эстакадой, по направлению из москвы сразу после эстакады примерно за 1 км до пересечения с А107. По состоянию на"
       },
       "geometry": {
@@ -5328,9 +5328,9 @@
     },
     {
       "type": "Feature",
-      "id": 1512,
+      "id": 479,
       "properties": {
-        "id": 1512,
+        "id": 479,
         "c": "За развязкой на с.Городечное"
       },
       "geometry": {
@@ -5343,9 +5343,9 @@
     },
     {
       "type": "Feature",
-      "id": 1513,
+      "id": 480,
       "properties": {
-        "id": 1513,
+        "id": 480,
         "c": "рамка между с. Лесное и речкой (57.10886,41.013864)"
       },
       "geometry": {
@@ -5358,9 +5358,9 @@
     },
     {
       "type": "Feature",
-      "id": 1972,
+      "id": 931,
       "properties": {
-        "id": 1972,
+        "id": 931,
         "c": "А 149 1,3км"
       },
       "geometry": {
@@ -5373,9 +5373,9 @@
     },
     {
       "type": "Feature",
-      "id": 1974,
+      "id": 933,
       "properties": {
-        "id": 1974,
+        "id": 933,
         "c": "Куряты перед Нижнеудинском на мосту через ж.д."
       },
       "geometry": {
@@ -5388,9 +5388,9 @@
     },
     {
       "type": "Feature",
-      "id": 1975,
+      "id": 934,
       "properties": {
-        "id": 1975,
+        "id": 934,
         "c": "на въезде в Тулун недалеко стоянка и шиномонтаж"
       },
       "geometry": {
@@ -5403,9 +5403,9 @@
     },
     {
       "type": "Feature",
-      "id": 1976,
+      "id": 935,
       "properties": {
-        "id": 1976,
+        "id": 935,
         "c": "за Красноярском в сторону Канска,перед стоянкой три богатыря и заправкой Фортуна.Км не помню в машине записаны.+- 500м"
       },
       "geometry": {
@@ -5418,9 +5418,9 @@
     },
     {
       "type": "Feature",
-      "id": 1977,
+      "id": 936,
       "properties": {
-        "id": 1977,
+        "id": 936,
         "c": "перед тайшетом в сторону иркутска.За постом гаи 200м"
       },
       "geometry": {
@@ -5433,9 +5433,9 @@
     },
     {
       "type": "Feature",
-      "id": 1978,
+      "id": 937,
       "properties": {
-        "id": 1978,
+        "id": 937,
         "c": "Севрюково"
       },
       "geometry": {
@@ -5448,9 +5448,9 @@
     },
     {
       "type": "Feature",
-      "id": 1979,
+      "id": 938,
       "properties": {
-        "id": 1979,
+        "id": 938,
         "c": "М-10 РОССИЯ,579-й километр, Чудовский район, Новгородская область"
       },
       "geometry": {
@@ -5463,9 +5463,9 @@
     },
     {
       "type": "Feature",
-      "id": 1980,
+      "id": 939,
       "properties": {
-        "id": 1980,
+        "id": 939,
         "c": "А108"
       },
       "geometry": {
@@ -5478,9 +5478,9 @@
     },
     {
       "type": "Feature",
-      "id": 1982,
+      "id": 941,
       "properties": {
-        "id": 1982,
+        "id": 941,
         "c": "Ногинск"
       },
       "geometry": {
@@ -5493,9 +5493,9 @@
     },
     {
       "type": "Feature",
-      "id": 1984,
+      "id": 943,
       "properties": {
-        "id": 1984,
+        "id": 943,
         "c": "По М5"
       },
       "geometry": {
@@ -5508,9 +5508,9 @@
     },
     {
       "type": "Feature",
-      "id": 1986,
+      "id": 945,
       "properties": {
-        "id": 1986,
+        "id": 945,
         "c": "Ерзовка на Омск"
       },
       "geometry": {
@@ -5523,9 +5523,9 @@
     },
     {
       "type": "Feature",
-      "id": 1988,
+      "id": 947,
       "properties": {
-        "id": 1988,
+        "id": 947,
         "c": "Клещевка Саратовская область на Омск"
       },
       "geometry": {
@@ -5538,9 +5538,9 @@
     },
     {
       "type": "Feature",
-      "id": 1990,
+      "id": 949,
       "properties": {
-        "id": 1990,
+        "id": 949,
         "c": "Челябинск на ОМСК "
       },
       "geometry": {
@@ -5553,9 +5553,9 @@
     },
     {
       "type": "Feature",
-      "id": 1991,
+      "id": 950,
       "properties": {
-        "id": 1991,
+        "id": 950,
         "c": "Камышловский Омская область на камышин "
       },
       "geometry": {
@@ -5568,9 +5568,9 @@
     },
     {
       "type": "Feature",
-      "id": 1992,
+      "id": 951,
       "properties": {
-        "id": 1992,
+        "id": 951,
         "c": "не доезжая до развязки 10 км Анна -Воронеж"
       },
       "geometry": {
@@ -5583,9 +5583,9 @@
     },
     {
       "type": "Feature",
-      "id": 1993,
+      "id": 952,
       "properties": {
-        "id": 1993,
+        "id": 952,
         "c": "Липецк, перед развязкой на Лебедянь (52.640953,39.536069)"
       },
       "geometry": {
@@ -5598,9 +5598,9 @@
     },
     {
       "type": "Feature",
-      "id": 1995,
+      "id": 954,
       "properties": {
-        "id": 1995,
+        "id": 954,
         "c": "Между Северным и Новотроицким"
       },
       "geometry": {
@@ -5613,9 +5613,9 @@
     },
     {
       "type": "Feature",
-      "id": 1996,
+      "id": 955,
       "properties": {
-        "id": 1996,
+        "id": 955,
         "c": "А108 от Каширского ш до Симферопольского перед приблизительно за 3 км до поворота на Новый Быт"
       },
       "geometry": {
@@ -5628,9 +5628,9 @@
     },
     {
       "type": "Feature",
-      "id": 1999,
+      "id": 957,
       "properties": {
-        "id": 1999,
+        "id": 957,
         "c": "Торхово"
       },
       "geometry": {
@@ -5643,9 +5643,9 @@
     },
     {
       "type": "Feature",
-      "id": 2000,
+      "id": 958,
       "properties": {
-        "id": 2000,
+        "id": 958,
         "c": "Поворот на Хавки"
       },
       "geometry": {
@@ -5658,9 +5658,9 @@
     },
     {
       "type": "Feature",
-      "id": 2002,
+      "id": 959,
       "properties": {
-        "id": 2002,
+        "id": 959,
         "c": "ЗА 6 км ДО Г.Каменномостский"
       },
       "geometry": {
@@ -5673,9 +5673,9 @@
     },
     {
       "type": "Feature",
-      "id": 2007,
+      "id": 962,
       "properties": {
-        "id": 2007,
+        "id": 962,
         "c": "Перед развязкой м4 Дон"
       },
       "geometry": {
@@ -5688,9 +5688,9 @@
     },
     {
       "type": "Feature",
-      "id": 2008,
+      "id": 963,
       "properties": {
-        "id": 2008,
+        "id": 963,
         "c": "Рамка на Выборгской окружной после Смирновской развязки, в сторону СПБ"
       },
       "geometry": {
@@ -5703,9 +5703,9 @@
     },
     {
       "type": "Feature",
-      "id": 2009,
+      "id": 964,
       "properties": {
-        "id": 2009,
+        "id": 964,
         "c": "Чистые Ключи"
       },
       "geometry": {
@@ -5718,9 +5718,9 @@
     },
     {
       "type": "Feature",
-      "id": 2011,
+      "id": 966,
       "properties": {
-        "id": 2011,
+        "id": 966,
         "c": "Чернышевск"
       },
       "geometry": {
@@ -5733,9 +5733,9 @@
     },
     {
       "type": "Feature",
-      "id": 2014,
+      "id": 969,
       "properties": {
-        "id": 2014,
+        "id": 969,
         "c": "Кругликово"
       },
       "geometry": {
@@ -5748,9 +5748,9 @@
     },
     {
       "type": "Feature",
-      "id": 2018,
+      "id": 971,
       "properties": {
-        "id": 2018,
+        "id": 971,
         "c": "Сысертский район. Пос. Октябрский 180-км"
       },
       "geometry": {
@@ -5763,9 +5763,9 @@
     },
     {
       "type": "Feature",
-      "id": 2019,
+      "id": 972,
       "properties": {
-        "id": 2019,
+        "id": 972,
         "c": "Р402 Ишим-Омск\n437км,770м\nширота 55.590856, долгота 71.304701\nжалобы отправлять в Называевский городской суд Омской области"
       },
       "geometry": {
@@ -5778,9 +5778,9 @@
     },
     {
       "type": "Feature",
-      "id": 2021,
+      "id": 974,
       "properties": {
-        "id": 2021,
+        "id": 974,
         "c": "поворот на Зею"
       },
       "geometry": {
@@ -5793,9 +5793,9 @@
     },
     {
       "type": "Feature",
-      "id": 2022,
+      "id": 975,
       "properties": {
-        "id": 2022,
+        "id": 975,
         "c": "Васильевка"
       },
       "geometry": {
@@ -5808,9 +5808,9 @@
     },
     {
       "type": "Feature",
-      "id": 2025,
+      "id": 978,
       "properties": {
-        "id": 2025,
+        "id": 978,
         "c": "Сразу после развилки в шимановск в сторону хабаровска"
       },
       "geometry": {
@@ -5823,9 +5823,9 @@
     },
     {
       "type": "Feature",
-      "id": 2026,
+      "id": 979,
       "properties": {
-        "id": 2026,
+        "id": 979,
         "c": "Култук"
       },
       "geometry": {
@@ -5838,9 +5838,9 @@
     },
     {
       "type": "Feature",
-      "id": 2027,
+      "id": 980,
       "properties": {
-        "id": 2027,
+        "id": 980,
         "c": "Залари"
       },
       "geometry": {
@@ -5853,9 +5853,9 @@
     },
     {
       "type": "Feature",
-      "id": 2030,
+      "id": 982,
       "properties": {
-        "id": 2030,
+        "id": 982,
         "c": "рамка платон, в оба напр. новорижское ш.99км"
       },
       "geometry": {
@@ -5868,9 +5868,9 @@
     },
     {
       "type": "Feature",
-      "id": 2031,
+      "id": 983,
       "properties": {
-        "id": 2031,
+        "id": 983,
         "c": "Трасса М2, 680 км. \nп. Майский, сразу за светофором в направлении на Харьков"
       },
       "geometry": {
@@ -5883,9 +5883,9 @@
     },
     {
       "type": "Feature",
-      "id": 2036,
+      "id": 986,
       "properties": {
-        "id": 2036,
+        "id": 986,
         "c": "Первомайский"
       },
       "geometry": {
@@ -5898,9 +5898,9 @@
     },
     {
       "type": "Feature",
-      "id": 2037,
+      "id": 987,
       "properties": {
-        "id": 2037,
+        "id": 987,
         "c": "Белый Яр"
       },
       "geometry": {
@@ -5913,9 +5913,9 @@
     },
     {
       "type": "Feature",
-      "id": 2038,
+      "id": 988,
       "properties": {
-        "id": 2038,
+        "id": 988,
         "c": "Жестылево, 65км автодороги А 108"
       },
       "geometry": {
@@ -5928,9 +5928,9 @@
     },
     {
       "type": "Feature",
-      "id": 2041,
+      "id": 990,
       "properties": {
-        "id": 2041,
+        "id": 990,
         "c": "На выезде из Суворовского в сторону Кисловодска"
       },
       "geometry": {
@@ -5943,9 +5943,9 @@
     },
     {
       "type": "Feature",
-      "id": 2042,
+      "id": 991,
       "properties": {
-        "id": 2042,
+        "id": 991,
         "c": "224 км трассы Р22 Каспий, направление Михайлов - Скопин"
       },
       "geometry": {
@@ -5958,9 +5958,9 @@
     },
     {
       "type": "Feature",
-      "id": 2043,
+      "id": 992,
       "properties": {
-        "id": 2043,
+        "id": 992,
         "c": "Черная речка. в две стороны. круглосуточно"
       },
       "geometry": {
@@ -5973,9 +5973,9 @@
     },
     {
       "type": "Feature",
-      "id": 2045,
+      "id": 994,
       "properties": {
-        "id": 2045,
+        "id": 994,
         "c": "Новая Шараповка"
       },
       "geometry": {
@@ -5988,9 +5988,9 @@
     },
     {
       "type": "Feature",
-      "id": 2048,
+      "id": 997,
       "properties": {
-        "id": 2048,
+        "id": 997,
         "c": "Карапсель"
       },
       "geometry": {
@@ -6003,9 +6003,9 @@
     },
     {
       "type": "Feature",
-      "id": 2051,
+      "id": 999,
       "properties": {
-        "id": 2051,
+        "id": 999,
         "c": "Гуран"
       },
       "geometry": {
@@ -6018,9 +6018,9 @@
     },
     {
       "type": "Feature",
-      "id": 2052,
+      "id": 1000,
       "properties": {
-        "id": 2052,
+        "id": 1000,
         "c": "Если ехать от Мин. Вод. рамка стоит перед Бородыновкой"
       },
       "geometry": {
@@ -6033,9 +6033,9 @@
     },
     {
       "type": "Feature",
-      "id": 2053,
+      "id": 1001,
       "properties": {
-        "id": 2053,
+        "id": 1001,
         "c": "с малиновка хабаровск-комсомольск на амуре15км"
       },
       "geometry": {
