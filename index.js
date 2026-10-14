@@ -74,7 +74,7 @@ function yMapsReady () {
     // Макет создается с помощью фабрики макетов с помощью текстового шаблона.
     BalloonContentLayout = ymaps.templateLayoutFactory.createClass(
         '<div class="balloon">' +
-        '<h3>Рамка {{properties.id}}</h3>' +
+        '<h3>Рамка {{object.id}}</h3>' +
         '<p>{{properties.c}}</p>'+
         '<ul>'+
             '<li class="report"><i class="fa fa-exclamation-triangle"></i>' + 
