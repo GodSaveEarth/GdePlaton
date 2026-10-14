@@ -77,7 +77,8 @@ function yMapsReady () {
         '<h3>Рамка {{properties.id}}</h3>' +
         '<p>{{properties.c}}</p>'+
         '<ul>'+
-            '<li class="report"><i class="fa fa-exclamation-triangle"></i> <a href="//docs.google.com/forms/d/e/1FAIpQLSf9nNh5pn5pDnwqC2_fNvJOpYtOtvFjhBOeDCxCMtouNfQY7Q/viewform?usp=pp_url&entry.5250015={{properties.id}}" target="_new"> Сообщить об ошибке</a>' +
+            '<li class="report"><i class="fa fa-exclamation-triangle"></i>' + 
+            ' <a href="//docs.google.com/forms/d/e/1FAIpQLSf9nNh5pn5pDnwqC2_fNvJOpYtOtvFjhBOeDCxCMtouNfQY7Q/viewform?usp=pp_url&entry.5250015={{object.id}}, {{object.geometry.coordinates}}" target="_new"> Сообщить об ошибке</a>' +
             '</ul>'+     
         '</div>'     
         
