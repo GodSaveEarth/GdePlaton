@@ -1,1 +1,6050 @@
-test
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1023,
+      "properties": {
+        "id": 1023,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3041347057935,
+          31.2741210937493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1024,
+      "properties": {
+        "id": 1024,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1887822240762,
+          33.5812499999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1025,
+      "properties": {
+        "id": 1025,
+        "c": "пост ДПС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.4197874515739,
+          40.596480218267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1026,
+      "properties": {
+        "id": 1026,
+        "c": "Развилка Холмогоры-Архангельск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.1455733133739,
+          41.6125653661202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1027,
+      "properties": {
+        "id": 1027,
+        "c": "с.Емецк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4791102228314,
+          41.7779186827268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1028,
+      "properties": {
+        "id": 1028,
+        "c": "Чекшино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6508904250421,
+          40.5696874735254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1029,
+      "properties": {
+        "id": 1029,
+        "c": "Барское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.3956116601285,
+          40.1388174173708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1030,
+      "properties": {
+        "id": 1030,
+        "c": "Заемье (Грязовец)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.7422288017809,
+          40.2883666632037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1031,
+      "properties": {
+        "id": 1031,
+        "c": "На Волгоград за заправкой лукойл"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4143861904635,
+          42.2774007797224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1032,
+      "properties": {
+        "id": 1032,
+        "c": "Перед мостом"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.7047230624905,
+          43.4715148794969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1033,
+      "properties": {
+        "id": 1033,
+        "c": "Возле заправки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6801756887165,
+          44.0440977163266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1034,
+      "properties": {
+        "id": 1034,
+        "c": "Перед постом дпс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.870304556864,
+          44.328711318966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1035,
+      "properties": {
+        "id": 1035,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1315878455335,
+          48.2589843749986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1036,
+      "properties": {
+        "id": 1036,
+        "c": "Перед постом Дпс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.7006809104857,
+          38.7817799998854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037,
+      "properties": {
+        "id": 1037,
+        "c": "В сторону Санкт Петербурга\tчерез 800м после моста через р.Шексна"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.219001335307,
+          38.4831450424608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038,
+      "properties": {
+        "id": 1038,
+        "c": "Кожино\tНижегородская область\tАрзамасский район"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3299559817916,
+          43.8877990722629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1039,
+      "properties": {
+        "id": 1039,
+        "c": "Нижегородская область.г.Богоявление на выезд в сторону Саранска"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8212722097257,
+          43.9997479024755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1040,
+      "properties": {
+        "id": 1040,
+        "c": "Нижегородская область\tрпг.Шатки на выезде в сторону Саранска."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1670769354662,
+          44.1576763692684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1041,
+      "properties": {
+        "id": 1041,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1702820711348,
+          48.2370117187487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1042,
+      "properties": {
+        "id": 1042,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1523779289434,
+          48.0832031249976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1043,
+      "properties": {
+        "id": 1043,
+        "c": "Около г. Кстово\tмежду постом ГИБДД и поворотом на объездную г. Кстово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1865331137099,
+          44.1411029392341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1045,
+      "properties": {
+        "id": 1045,
+        "c": "После с. Работки в сторону г. Казань\tоколо развилки на г. Большое мурашкино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0063490691527,
+          44.6297684118678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1046,
+      "properties": {
+        "id": 1046,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7814066621081,
+          52.1906580576124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1047,
+      "properties": {
+        "id": 1047,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.708929316848,
+          53.0670323022968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1048,
+      "properties": {
+        "id": 1048,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6800415034937,
+          49.6451070785461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1049,
+      "properties": {
+        "id": 1049,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.0362916097662,
+          32.6000335693339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1050,
+      "properties": {
+        "id": 1050,
+        "c": "Оленье\t72км от Волгограда или 629км от Саратова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1890169525571,
+          44.8820188522233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1051,
+      "properties": {
+        "id": 1051,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9277583192088,
+          48.3051183700485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1052,
+      "properties": {
+        "id": 1052,
+        "c": "виадук между гатчинской развязкой и ульяновкой. в обе стороны."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6117197144064,
+          30.7479556267465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054,
+      "properties": {
+        "id": 1054,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.062996477711,
+          40.1322622691248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1055,
+      "properties": {
+        "id": 1055,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9400486285969,
+          44.6340945646239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1056,
+      "properties": {
+        "id": 1056,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2940321040053,
+          43.3723435895767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1057,
+      "properties": {
+        "id": 1057,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3062365525476,
+          43.6737828478923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1058,
+      "properties": {
+        "id": 1058,
+        "c": "На М10 между а107 на Дмитров и А 107 на Звенигород"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0638678020867,
+          37.1339907090991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1059,
+      "properties": {
+        "id": 1059,
+        "c": "М2 120км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.723253448187,
+          37.5129638650988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1060,
+      "properties": {
+        "id": 1060,
+        "c": "В сторону Вологды\tперед заездом на АЗС Лукойл"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1936788799481,
+          37.6785603046361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062,
+      "properties": {
+        "id": 1062,
+        "c": "М-9  89км+300м"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.980911234656,
+          36.3863484598455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063,
+      "properties": {
+        "id": 1063,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8815489170186,
+          38.9873117727225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1064,
+      "properties": {
+        "id": 1064,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2126919527277,
+          41.3350077378749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1065,
+      "properties": {
+        "id": 1065,
+        "c": "В область\tна спуске после Базарово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1601876370903,
+          37.4921731346262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1066,
+      "properties": {
+        "id": 1066,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2201239470781,
+          34.3411842137906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1067,
+      "properties": {
+        "id": 1067,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3361536565037,
+          36.736074999006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1068,
+      "properties": {
+        "id": 1068,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4009685270825,
+          36.6523196118508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069,
+      "properties": {
+        "id": 1069,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8110698191544,
+          38.0920818328841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1070,
+      "properties": {
+        "id": 1070,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8548347130614,
+          38.5694721221865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071,
+      "properties": {
+        "id": 1071,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4060868368097,
+          36.6467788696259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1072,
+      "properties": {
+        "id": 1072,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.6377020475748,
+          36.4558914184521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1073,
+      "properties": {
+        "id": 1073,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6411174402028,
+          31.4547923041904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1075,
+      "properties": {
+        "id": 1075,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6083276343559,
+          30.753855986743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1076,
+      "properties": {
+        "id": 1076,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.892284515521,
+          30.5399659110585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1077,
+      "properties": {
+        "id": 1077,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3667352377243,
+          37.4639177063861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1079,
+      "properties": {
+        "id": 1079,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.3948931583661,
+          33.0129660099008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1080,
+      "properties": {
+        "id": 1080,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7397797467836,
+          38.4565715443826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1081,
+      "properties": {
+        "id": 1081,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4156407598713,
+          38.2484538992697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083,
+      "properties": {
+        "id": 1083,
+        "c": "между КАДом и АЗС ПТК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.8902616257485,
+          30.5674827155968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1084,
+      "properties": {
+        "id": 1084,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1516444887348,
+          39.3457631500528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085,
+      "properties": {
+        "id": 1085,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7111967469279,
+          39.9006240093089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088,
+      "properties": {
+        "id": 1088,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.863312666624,
+          48.8040092468194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1089,
+      "properties": {
+        "id": 1089,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1646735260053,
+          48.287136840809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090,
+      "properties": {
+        "id": 1090,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1957900449879,
+          47.7967002868435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091,
+      "properties": {
+        "id": 1091,
+        "c": "бетонка в сторону Гатчино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6029701704162,
+          30.7534082153542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092,
+      "properties": {
+        "id": 1092,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1370163538142,
+          36.7880574835157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094,
+      "properties": {
+        "id": 1094,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1197913204475,
+          37.9365280393988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1095,
+      "properties": {
+        "id": 1095,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3163741847735,
+          44.3459425548318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1096,
+      "properties": {
+        "id": 1096,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.274628218317,
+          47.2569272468386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097,
+      "properties": {
+        "id": 1097,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6908382064234,
+          32.129590870616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1098,
+      "properties": {
+        "id": 1098,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.7202158148748,
+          47.9156616210876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099,
+      "properties": {
+        "id": 1099,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2964940094488,
+          48.3101394653241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1100,
+      "properties": {
+        "id": 1100,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2455121844252,
+          38.5239186766151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1101,
+      "properties": {
+        "id": 1101,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1292247624924,
+          36.7963185789536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1102,
+      "properties": {
+        "id": 1102,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5267539158572,
+          36.3662841796864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1103,
+      "properties": {
+        "id": 1103,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.215470137855,
+          34.2569091796851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1104,
+      "properties": {
+        "id": 1104,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3438139580442,
+          38.2229736328083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1106,
+      "properties": {
+        "id": 1106,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8996592951018,
+          38.0609252929619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1107,
+      "properties": {
+        "id": 1107,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6938790686765,
+          38.9425781249919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1108,
+      "properties": {
+        "id": 1108,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2141972169999,
+          34.2274632422618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1109,
+      "properties": {
+        "id": 1109,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1130550121355,
+          39.0702134130232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1110,
+      "properties": {
+        "id": 1110,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4144185912215,
+          38.8063477233036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111,
+      "properties": {
+        "id": 1111,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3194885074519,
+          37.5935831616116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112,
+      "properties": {
+        "id": 1112,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1090572607803,
+          38.1538858959812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1113,
+      "properties": {
+        "id": 1113,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.911633601086,
+          37.4740150451602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1114,
+      "properties": {
+        "id": 1114,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4483361962974,
+          36.8481376647867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1115,
+      "properties": {
+        "id": 1115,
+        "c": "Ямбирно\tоколо поворота на Сасово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1176732305473,
+          42.0772865295351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1116,
+      "properties": {
+        "id": 1116,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8749682397203,
+          35.9328119981176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1117,
+      "properties": {
+        "id": 1117,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9521012669356,
+          35.9818395549841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1118,
+      "properties": {
+        "id": 1118,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3314175798059,
+          37.5801812163687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1120,
+      "properties": {
+        "id": 1120,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.9058687108125,
+          37.4678788095564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1121,
+      "properties": {
+        "id": 1121,
+        "c": "Граница Московской и Владимирской области п. Дворики"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4678299772696,
+          38.3723190307594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1122,
+      "properties": {
+        "id": 1122,
+        "c": "Ярославское шоссе  п.Кощейково"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0819970585323,
+          37.9190525881579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1123,
+      "properties": {
+        "id": 1123,
+        "c": "Перед Луховицами за 300 м до начала Луховиц со стороны Москвы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.979852361243,
+          38.9990547180162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124,
+      "properties": {
+        "id": 1124,
+        "c": "п плотава прямо на знаке. Со стороны Москвы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8519137662895,
+          38.8492372512807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1126,
+      "properties": {
+        "id": 1126,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0282947649582,
+          35.8938720703101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1127,
+      "properties": {
+        "id": 1127,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5211477162289,
+          30.0161865234297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128,
+      "properties": {
+        "id": 1128,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5155651009067,
+          30.1109436035071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1130,
+      "properties": {
+        "id": 1130,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6495470525313,
+          31.4360890301749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1131,
+      "properties": {
+        "id": 1131,
+        "c": "в районе посёлка Высокое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7553816597252,
+          39.4149044036845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1133,
+      "properties": {
+        "id": 1133,
+        "c": "60-ый км по столбам от Москвы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8338279407668,
+          38.3620193481426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1135,
+      "properties": {
+        "id": 1135,
+        "c": "Граница Татарии и Чувашии"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7359602894351,
+          48.250615882869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1136,
+      "properties": {
+        "id": 1136,
+        "c": "Перед двумя светофорами со стороны М5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3555876171388,
+          37.9150131225557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1137,
+      "properties": {
+        "id": 1137,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6659451693243,
+          51.4144638061501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1138,
+      "properties": {
+        "id": 1138,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7481376597343,
+          48.7976577758766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139,
+      "properties": {
+        "id": 1139,
+        "c": "Приблизительное размещение"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7314805772331,
+          49.4118621826149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1140,
+      "properties": {
+        "id": 1140,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9857509830783,
+          38.9878967285132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1141,
+      "properties": {
+        "id": 1141,
+        "c": "Пост ДПС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9547874306092,
+          113.636434364293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1142,
+      "properties": {
+        "id": 1142,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.1058295621275,
+          113.418853568986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1143,
+      "properties": {
+        "id": 1143,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7470319295673,
+          39.9281418732025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1144,
+      "properties": {
+        "id": 1144,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1697123693952,
+          39.6424973419516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1145,
+      "properties": {
+        "id": 1145,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8218291764507,
+          37.6437004235813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1146,
+      "properties": {
+        "id": 1146,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.308956570014,
+          38.7035461643682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1147,
+      "properties": {
+        "id": 1147,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1600128170073,
+          37.2946289062474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148,
+      "properties": {
+        "id": 1148,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7412611202821,
+          38.2174804687484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1149,
+      "properties": {
+        "id": 1149,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.348115084622,
+          37.8791015289714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1150,
+      "properties": {
+        "id": 1150,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.92378664968,
+          32.8981286333434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1151,
+      "properties": {
+        "id": 1151,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.9208102406843,
+          32.7656060503326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1152,
+      "properties": {
+        "id": 1152,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7706965499012,
+          32.6556998537301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1153,
+      "properties": {
+        "id": 1153,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0871360953985,
+          34.0302337835386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154,
+      "properties": {
+        "id": 1154,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.3092182088757,
+          34.054247600845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1155,
+      "properties": {
+        "id": 1155,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.197745813284,
+          34.5311811447078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1156,
+      "properties": {
+        "id": 1156,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.621273192635,
+          66.2784521854969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1157,
+      "properties": {
+        "id": 1157,
+        "c": "Грибановский на м6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.503038667077,
+          42.0227316527316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1158,
+      "properties": {
+        "id": 1158,
+        "c": "перед 108-й около оз Торбеевское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3243367548728,
+          38.252129500159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1159,
+      "properties": {
+        "id": 1159,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6426516098276,
+          49.343884277342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1160,
+      "properties": {
+        "id": 1160,
+        "c": "Верхний Карачан "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4121073655834,
+          41.745057924595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1162,
+      "properties": {
+        "id": 1162,
+        "c": "Мушковичи в сторону Минска"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0589524729673,
+          32.5047803597785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1163,
+      "properties": {
+        "id": 1163,
+        "c": "Каменка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0179682486167,
+          32.3052051544126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1164,
+      "properties": {
+        "id": 1164,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4361229705446,
+          36.3745239257795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1165,
+      "properties": {
+        "id": 1165,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2821292508159,
+          37.1765258789026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1166,
+      "properties": {
+        "id": 1166,
+        "c": "Сясьстрой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.1406425621046,
+          32.5265624999951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1167,
+      "properties": {
+        "id": 1167,
+        "c": "перед мостом"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.739152974648,
+          33.6036088943443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1170,
+      "properties": {
+        "id": 1170,
+        "c": "после п. Грибки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9650386619263,
+          37.5336471994948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1171,
+      "properties": {
+        "id": 1171,
+        "c": "село Раздольное Краснодарский край "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.372149653972,
+          39.5885398864687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172,
+      "properties": {
+        "id": 1172,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5064949251147,
+          38.8718536376872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1173,
+      "properties": {
+        "id": 1173,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3150780783721,
+          38.6208847045803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1176,
+      "properties": {
+        "id": 1176,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.679143800386,
+          39.5404543124153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1177,
+      "properties": {
+        "id": 1177,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5616504148249,
+          41.182910367102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1178,
+      "properties": {
+        "id": 1178,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6285521205261,
+          41.2872804842892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1180,
+      "properties": {
+        "id": 1180,
+        "c": "На м6 перед водохранилище на спуске"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7411692535951,
+          41.2089482720376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1181,
+      "properties": {
+        "id": 1181,
+        "c": "Новая ляда после азс лукойл в сторону Пензы. в Тамбов после жд переезда"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.709406343423,
+          41.7127780812006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1182,
+      "properties": {
+        "id": 1182,
+        "c": "Пишем в маршрутной карте от рассвета до раздолки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1752170008102,
+          37.454531478879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1184,
+      "properties": {
+        "id": 1184,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1550732717245,
+          37.3026230151708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1185,
+      "properties": {
+        "id": 1185,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1180322909918,
+          39.8695672929656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1186,
+      "properties": {
+        "id": 1186,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5541107681002,
+          36.3854465576723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1187,
+      "properties": {
+        "id": 1187,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6647777337562,
+          30.2261317889436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1188,
+      "properties": {
+        "id": 1188,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9422643755094,
+          38.3987548828117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1190,
+      "properties": {
+        "id": 1190,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7121793550733,
+          41.668560791013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1191,
+      "properties": {
+        "id": 1191,
+        "c": "НА выезде с д. Афанасьево на Елец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.584875435785,
+          38.2217537021914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1192,
+      "properties": {
+        "id": 1192,
+        "c": "В районе старого Змиевского поста ДПС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7043263480369,
+          36.3666950321425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1193,
+      "properties": {
+        "id": 1193,
+        "c": "За д. Покровское в сторону Ливны. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5974206452569,
+          36.919787988681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1195,
+      "properties": {
+        "id": 1195,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9339697687277,
+          38.4016576796656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1196,
+      "properties": {
+        "id": 1196,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.709748144964,
+          41.7051921939869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1197,
+      "properties": {
+        "id": 1197,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4414301665764,
+          31.6396620496712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1198,
+      "properties": {
+        "id": 1198,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5126077595941,
+          38.3860527462307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1199,
+      "properties": {
+        "id": 1199,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2436384373874,
+          38.5336299382172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1200,
+      "properties": {
+        "id": 1200,
+        "c": "после поворота на аэропорт со стороны Казани"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6558530025616,
+          49.3102386474588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1201,
+      "properties": {
+        "id": 1201,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4697318322832,
+          39.8475769042922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1202,
+      "properties": {
+        "id": 1202,
+        "c": "между ТОРЖКОМ и ТВЕРЬЮ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0706034378031,
+          34.9952193786372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1203,
+      "properties": {
+        "id": 1203,
+        "c": "Развязка М 4 на М 29 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1098095096221,
+          39.8727512688669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1204,
+      "properties": {
+        "id": 1204,
+        "c": "трасса р-217 перед г. Невинномысск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6605462749137,
+          41.9074237123816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1205,
+      "properties": {
+        "id": 1205,
+        "c": "трасса р-217 населенный пункт Малка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8094905843286,
+          43.3559359974792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1207,
+      "properties": {
+        "id": 1207,
+        "c": " Р 21 Между Роснефть- Юшково  работает."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.067460516958,
+          32.3169380141824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1209,
+      "properties": {
+        "id": 1209,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9748909202086,
+          30.9953430175756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1212,
+      "properties": {
+        "id": 1212,
+        "c": "За постом ГИБДД в сторону набережных Челнов"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7167219604346,
+          52.2661122954601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1213,
+      "properties": {
+        "id": 1213,
+        "c": "Вход в д.Лопатницы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.5099011360512,
+          40.5467966079663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1215,
+      "properties": {
+        "id": 1215,
+        "c": "В районе п.Косыревка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6017499669405,
+          39.3800587636611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1216,
+      "properties": {
+        "id": 1216,
+        "c": "27 км от Тамбовской объездной "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6289161759438,
+          40.8917088491049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1217,
+      "properties": {
+        "id": 1217,
+        "c": "тихорецк-павловская.перед расширением"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0903861353845,
+          39.8914554880787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1218,
+      "properties": {
+        "id": 1218,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1276588855283,
+          37.5760192315215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1220,
+      "properties": {
+        "id": 1220,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1022574004635,
+          39.8821751088064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1223,
+      "properties": {
+        "id": 1223,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5807132995487,
+          50.6639561449155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1224,
+      "properties": {
+        "id": 1224,
+        "c": "Поворот на Сыктывкар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.7749425290883,
+          49.4771440722032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1226,
+      "properties": {
+        "id": 1226,
+        "c": "напротив водохранилища"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7434439933919,
+          41.1999252319317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1227,
+      "properties": {
+        "id": 1227,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6795030310038,
+          39.6616931051606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1228,
+      "properties": {
+        "id": 1228,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2033894215782,
+          40.8461384586295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1229,
+      "properties": {
+        "id": 1229,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6570963439647,
+          41.3295368961274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1230,
+      "properties": {
+        "id": 1230,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6312011018722,
+          41.3415531925134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1232,
+      "properties": {
+        "id": 1232,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6819425467379,
+          44.8667912296197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1233,
+      "properties": {
+        "id": 1233,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0179165507844,
+          44.5124821475877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1235,
+      "properties": {
+        "id": 1235,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2970017337705,
+          43.452300720075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1236,
+      "properties": {
+        "id": 1236,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1970080914684,
+          41.0218919350249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1237,
+      "properties": {
+        "id": 1237,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0743141198464,
+          40.1773179604143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1238,
+      "properties": {
+        "id": 1238,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7184355277094,
+          39.4824327065076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1241,
+      "properties": {
+        "id": 1241,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2906683213518,
+          48.2221167575336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1242,
+      "properties": {
+        "id": 1242,
+        "c": "Апастасово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1809244598009,
+          48.5446289062459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1243,
+      "properties": {
+        "id": 1243,
+        "c": "Большие ключища"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1146476944524,
+          48.2342651367171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1246,
+      "properties": {
+        "id": 1246,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7342753677537,
+          41.1728027343737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1248,
+      "properties": {
+        "id": 1248,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3268244528101,
+          42.0299079894953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1249,
+      "properties": {
+        "id": 1249,
+        "c": "в сторону москвы перед развязкой часто стоит машина платон"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8610138475675,
+          38.8970020294159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250,
+      "properties": {
+        "id": 1250,
+        "c": "машина стоит платон в сторону орехово-зуево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8490408796528,
+          38.9630916595417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251,
+      "properties": {
+        "id": 1251,
+        "c": "Сальское кольцо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0816041344519,
+          39.7747405377218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1252,
+      "properties": {
+        "id": 1252,
+        "c": "Пост гаи въезд или выезд из Краснодара"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1827781562846,
+          39.1153676716586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1253,
+      "properties": {
+        "id": 1253,
+        "c": "Машина с камерой в районе АЗС ТАТНефть"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5598026778613,
+          39.4866703502752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1254,
+      "properties": {
+        "id": 1254,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1867463195855,
+          37.4371936798091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255,
+      "properties": {
+        "id": 1255,
+        "c": "Рамка Платона село Раздольное трасса А 160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.372000381868,
+          39.5665635292418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1257,
+      "properties": {
+        "id": 1257,
+        "c": "поворот на Осьмино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8318707229777,
+          29.9143139319854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1258,
+      "properties": {
+        "id": 1258,
+        "c": "пост ГИБДД в сторону Еката постоянно дежурит машина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1137285759696,
+          65.4092648506087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1259,
+      "properties": {
+        "id": 1259,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8260673242182,
+          54.9707081794677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1260,
+      "properties": {
+        "id": 1260,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4246147515613,
+          53.0800512313765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1261,
+      "properties": {
+        "id": 1261,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9794976542416,
+          44.6958420252562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1262,
+      "properties": {
+        "id": 1262,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4288375125047,
+          44.2502907049509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1263,
+      "properties": {
+        "id": 1263,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7455596926805,
+          33.5985868218794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1265,
+      "properties": {
+        "id": 1265,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9487966849228,
+          35.9664778897443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1267,
+      "properties": {
+        "id": 1267,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9441582410478,
+          60.0533440589805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1269,
+      "properties": {
+        "id": 1269,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8967598669388,
+          38.0319267162053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1270,
+      "properties": {
+        "id": 1270,
+        "c": "В сторону г. Вологда"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.251857586925,
+          40.1806858062643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1271,
+      "properties": {
+        "id": 1271,
+        "c": "В сторону г. Череповец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1972799169389,
+          39.631312331209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1272,
+      "properties": {
+        "id": 1272,
+        "c": "В сторону Ярославля"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3339457052831,
+          38.2585504531822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1274,
+      "properties": {
+        "id": 1274,
+        "c": "Трасса Ростов-на-Дону - Таганрог"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2658386615044,
+          39.5907714843718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1275,
+      "properties": {
+        "id": 1275,
+        "c": "Автодорога М23 примерно 500м в сторону с. Самбек"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3201582978813,
+          39.048369487741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276,
+      "properties": {
+        "id": 1276,
+        "c": "На подъезде к Липецку со стороны Ельца в районе деревни Косыревка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6014960201305,
+          39.3447330381699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1280,
+      "properties": {
+        "id": 1280,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1337963995769,
+          42.3429246609218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1281,
+      "properties": {
+        "id": 1281,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7752076065875,
+          46.0963728904686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1282,
+      "properties": {
+        "id": 1282,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.1511706916484,
+          46.971858187076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1283,
+      "properties": {
+        "id": 1283,
+        "c": "на границе Россия - РБ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4415924353433,
+          31.6318955898224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1284,
+      "properties": {
+        "id": 1284,
+        "c": "п. Змиёвка. Орловская область"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6899221506651,
+          36.4030519008551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1285,
+      "properties": {
+        "id": 1285,
+        "c": "п. Покровское. Орловская область"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6122488309214,
+          36.8864503383538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1286,
+      "properties": {
+        "id": 1286,
+        "c": "п. Образцово. Орловская область"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9490964275351,
+          35.9779861450173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1287,
+      "properties": {
+        "id": 1287,
+        "c": "Модератору - уберите рамку в районе Коптёвки - Репьёвки. Кто-то установил по ошибке или намеренно. Постоянном там езжу - в том районе нет рамок вообще ни каких!!!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1919856434411,
+          48.0866363525358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1290,
+      "properties": {
+        "id": 1290,
+        "c": "На выезде из Косыревки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.603096618916,
+          39.3629618320478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1291,
+      "properties": {
+        "id": 1291,
+        "c": "Верхний карачан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4142858164017,
+          41.7193725585909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1292,
+      "properties": {
+        "id": 1292,
+        "c": "Трасса Р-22 Каспий, хутор 1-й Сухов"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9334223798235,
+          43.3648434162088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293,
+      "properties": {
+        "id": 1293,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5125942845016,
+          42.6451384669842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1294,
+      "properties": {
+        "id": 1294,
+        "c": "5 км после Белоречкнска в сторону  Усть-Лабинска"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8365248439419,
+          39.8352172851508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1295,
+      "properties": {
+        "id": 1295,
+        "c": "перед  п Черноморской"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.859971170721,
+          38.470852661126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1296,
+      "properties": {
+        "id": 1296,
+        "c": "1 км за Крымском"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8978069382878,
+          37.9733779907141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1297,
+      "properties": {
+        "id": 1297,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8927661385811,
+          37.5619934705309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1299,
+      "properties": {
+        "id": 1299,
+        "c": "После поста ДПС перед мостом через речку в сторону Новой Ладоги."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.9724649014554,
+          36.5928771972636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300,
+      "properties": {
+        "id": 1300,
+        "c": "Посёлок Сазоново перед заправкой Лукойл в сторону СПБ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1114755686337,
+          35.2214410400015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1301,
+      "properties": {
+        "id": 1301,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.5821459536601,
+          47.9692414283692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302,
+      "properties": {
+        "id": 1302,
+        "c": "Синявино. Выездной контроль направление Петрозаводск."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9068735074246,
+          31.0489013671867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1303,
+      "properties": {
+        "id": 1303,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9120022572132,
+          38.4045913696256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1305,
+      "properties": {
+        "id": 1305,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6655980255629,
+          47.8483335226308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1306,
+      "properties": {
+        "id": 1306,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3634715586104,
+          36.9549469867644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1308,
+      "properties": {
+        "id": 1308,
+        "c": "620 км от Москвы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1789115650461,
+          42.133741366707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1309,
+      "properties": {
+        "id": 1309,
+        "c": "705 км от Москвы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9560658869696,
+          43.2879538304629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1310,
+      "properties": {
+        "id": 1310,
+        "c": "У поста ДПС и поворота на Светляй яр"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4577915147385,
+          44.5774174447068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1311,
+      "properties": {
+        "id": 1311,
+        "c": "У поста ДПС при выезде с г.Астрахань на М6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4679082227527,
+          47.9608480236277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1313,
+      "properties": {
+        "id": 1313,
+        "c": "Палужье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1489369505872,
+          34.1827031850755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1314,
+      "properties": {
+        "id": 1314,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.5105334645801,
+          40.5322141886044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1318,
+      "properties": {
+        "id": 1318,
+        "c": "На вьезде в п.Черноморский поставили рамку ... Камер пока нет "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8619295993714,
+          38.4850315753398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1319,
+      "properties": {
+        "id": 1319,
+        "c": "в районе д.Ясенево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3765943764294,
+          36.8249633789032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321,
+      "properties": {
+        "id": 1321,
+        "c": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3650698882236,
+          45.0518968492329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322,
+      "properties": {
+        "id": 1322,
+        "c": "На подъезде к д.Лопатницы со стороны г.Иваново"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.527910564149,
+          40.5572824135838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1327,
+      "properties": {
+        "id": 1327,
+        "c": "трасса Калуга-Тула. не доезжая тулы 20 км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2473667487913,
+          37.3227184351644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1328,
+      "properties": {
+        "id": 1328,
+        "c": "По А107 после кругового движения со стороны Ярославского шоссе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0753903779127,
+          38.0497673034657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329,
+      "properties": {
+        "id": 1329,
+        "c": "АЗС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.504296923701,
+          65.2493563931425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1330,
+      "properties": {
+        "id": 1330,
+        "c": "АГЗС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2897872879586,
+          62.8826990604366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1332,
+      "properties": {
+        "id": 1332,
+        "c": "АЗС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5178812038412,
+          65.4029703521193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1333,
+      "properties": {
+        "id": 1333,
+        "c": "перед заправкой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3865308228002,
+          43.8381962683528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1334,
+      "properties": {
+        "id": 1334,
+        "c": "новая , скоро заработает"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.808351543666,
+          44.2057480086632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1335,
+      "properties": {
+        "id": 1335,
+        "c": "новая, скоро заработает"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8053563648713,
+          44.9004156065009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1337,
+      "properties": {
+        "id": 1337,
+        "c": "из челябинска в сторону москвы после Иглино развязка.въезд в уфу.первый из челябинска,последний со стороны москвы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7397416018297,
+          56.293938446041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1338,
+      "properties": {
+        "id": 1338,
+        "c": "со стороны Москвы рядом с постом ДПС, 1454 км 138 м трассы М5 \"Урал\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6732658244648,
+          55.7813575744587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1339,
+      "properties": {
+        "id": 1339,
+        "c": "со стороны Москвы через 300 метром после рынка Петушок,после речки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.2499384493123,
+          45.0332096099829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1340,
+      "properties": {
+        "id": 1340,
+        "c": "со стороны пензы в сторону тамбова сразу после Загоскино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1553639217305,
+          44.5608732917507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1341,
+      "properties": {
+        "id": 1341,
+        "c": "со стороны пенза в сторону тамбова  сразу после крюково"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9673148956991,
+          43.5770061492893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1342,
+      "properties": {
+        "id": 1342,
+        "c": "При движении от Порхова в Сольцы перед первым поворотом на Боровичи."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9418728403873,
+          29.6487633668887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1343,
+      "properties": {
+        "id": 1343,
+        "c": "по направлению от ст. Кирпильская в сторону г Усть-Лабинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3657517815656,
+          39.6960642814608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1345,
+      "properties": {
+        "id": 1345,
+        "c": "поворот на красный май"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7002301334553,
+          34.2353227615337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346,
+      "properties": {
+        "id": 1346,
+        "c": "Авдотьинка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2283558788831,
+          40.9053543090755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1351,
+      "properties": {
+        "id": 1351,
+        "c": "Сызрань. Перед  Газпром-нефть на Москву"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1912865091243,
+          48.3469983816071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1352,
+      "properties": {
+        "id": 1352,
+        "c": "Жигулёвск. На спуске перед железкой в сторону Самары"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4116335645003,
+          49.4803228855058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1354,
+      "properties": {
+        "id": 1354,
+        "c": "Челябинск. После моста на объездную на Курган"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.000062012198,
+          61.1462047576836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1355,
+      "properties": {
+        "id": 1355,
+        "c": "Курган. После газпрома в сторону Омска"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4547285544139,
+          65.1048448562542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1356,
+      "properties": {
+        "id": 1356,
+        "c": "Макушино, перед круговым "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2453367017455,
+          67.2620490074098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1357,
+      "properties": {
+        "id": 1357,
+        "c": "Ковалёво. После АЗС Топлайн в сторону Новосибирска"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1121031300647,
+          75.2584468610379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1359,
+      "properties": {
+        "id": 1359,
+        "c": "деревня Сябреницы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1463132370759,
+          31.6108155217706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1360,
+      "properties": {
+        "id": 1360,
+        "c": "поселок Заволжский на входе со стороны Питера"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8916615167043,
+          35.7364317655538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1361,
+      "properties": {
+        "id": 1361,
+        "c": "перед деревней Первомайское со стороны Питера"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3862793601401,
+          31.9707980632756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1362,
+      "properties": {
+        "id": 1362,
+        "c": "Между Зимогорьем и поворотом на Боровичи в низине."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9510772521331,
+          33.2986953735336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1363,
+      "properties": {
+        "id": 1363,
+        "c": "Между деревней Дорки и поворотом на Красный Май"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6345282634991,
+          34.4291713714587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1364,
+      "properties": {
+        "id": 1364,
+        "c": "Недалеко от весовой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1033384537171,
+          47.0383797360883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1365,
+      "properties": {
+        "id": 1365,
+        "c": "Трасса Пермь - Екатеринбург, в р-не Кунгура"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3595323629646,
+          56.9244506835921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1366,
+      "properties": {
+        "id": 1366,
+        "c": "д.Рановка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.7153827202044,
+          39.9211858457145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1367,
+      "properties": {
+        "id": 1367,
+        "c": "На трассе возле Кузнецовского КПП."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0807625289778,
+          101.23385191405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1368,
+      "properties": {
+        "id": 1368,
+        "c": "На развилке дороги Ангарск-Иркутск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.576832806215,
+          103.818696546931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1369,
+      "properties": {
+        "id": 1369,
+        "c": "Богородское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7393378953754,
+          49.402635383601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1372,
+      "properties": {
+        "id": 1372,
+        "c": "М5 С МОСКВЫ ПЕРЕД Д.ВЫСОКОЕ РЯЗАНСКОЙ ОБЛАСТИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7627279095226,
+          39.4006565093969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1374,
+      "properties": {
+        "id": 1374,
+        "c": "Р-180 ПЕРЕД ПОВОРОТОМ НА ПЕНЗУ ПО НАПРАВЛЕНИЮ К САРАНСКУ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2459351960121,
+          44.9750177241771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1375,
+      "properties": {
+        "id": 1375,
+        "c": "М5 С МОСКВЫ ПЕРЕД РАЗВЯЗКОЙ НА УФУ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.424759952571,
+          50.3120544433578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1376,
+      "properties": {
+        "id": 1376,
+        "c": "ВЪЕЗД  В САМАРУ С ОРЕНБУРГА УЛ УРАЛСКАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1274643906126,
+          50.1642904218148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1378,
+      "properties": {
+        "id": 1378,
+        "c": "трасса А 107, съезд на А 107 с Егорьевского шоссе в сторону Электростали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6319707428439,
+          38.3599594116191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1380,
+      "properties": {
+        "id": 1380,
+        "c": "рамка Платона с камерами "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3234934718184,
+          50.6281849622698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1382,
+      "properties": {
+        "id": 1382,
+        "c": "Трасса М9 в сторону Риги после развязки на г.Нелидово примерно 300-500м"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2781568990773,
+          32.6391570948582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1383,
+      "properties": {
+        "id": 1383,
+        "c": "Трасса М9 в сторону Риги после развязки на г.Великие Луки 300-500м"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2864274616092,
+          30.5023173822339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1384,
+      "properties": {
+        "id": 1384,
+        "c": "Трасса М9 в сторону Риги, не доезжая съезда на Пустошка перед АЗС Сургутнефтегаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3197331717707,
+          29.403920300157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1385,
+      "properties": {
+        "id": 1385,
+        "c": "Трасса Р-23 после г.Опочка недоезжая АЗС Статойл"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.7330415799456,
+          28.675874257815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1386,
+      "properties": {
+        "id": 1386,
+        "c": "Трасса Р-23 перед мостом через р.Великая перед г.Остров"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3391088960282,
+          28.3706405639621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1387,
+      "properties": {
+        "id": 1387,
+        "c": "Трасса Р-23 недоедая посёлка Череха"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7329278286802,
+          28.3595700142936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1389,
+      "properties": {
+        "id": 1389,
+        "c": "где бывший пост ДПС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9560476445507,
+          44.6607902526819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1390,
+      "properties": {
+        "id": 1390,
+        "c": "с одной и с другой стороны развязки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4627494304804,
+          40.5202266454668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1391,
+      "properties": {
+        "id": 1391,
+        "c": "Тамбовка, сразу после моста."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.688065838865,
+          39.5138391868203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1393,
+      "properties": {
+        "id": 1393,
+        "c": "А-108, от Егорьевского ш. в п. Куровское."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5216505401929,
+          38.870859871086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1398,
+      "properties": {
+        "id": 1398,
+        "c": "С.Бегуницы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5862619701946,
+          29.3164129521219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1399,
+      "properties": {
+        "id": 1399,
+        "c": "на выезде из д.Черемыкино в сторону С.Петербурга"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6507692044784,
+          29.660675811766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1402,
+      "properties": {
+        "id": 1402,
+        "c": "Перед Ижевской развязкой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.7005394719336,
+          53.1316519532899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1403,
+      "properties": {
+        "id": 1403,
+        "c": "Верхняя Талица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.8904521978046,
+          54.9356028512847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1405,
+      "properties": {
+        "id": 1405,
+        "c": "Недалеко от АЗС Газпром 444км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9950747411353,
+          55.4773222647345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1406,
+      "properties": {
+        "id": 1406,
+        "c": "Возле АЗС Газпромнефть 96 км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3114858663619,
+          56.9742945301459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1407,
+      "properties": {
+        "id": 1407,
+        "c": "Перед развязкой на ЕКад"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8348915209877,
+          60.2937327064287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1410,
+      "properties": {
+        "id": 1410,
+        "c": "Тарутино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2885182568938,
+          90.8051761082518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1411,
+      "properties": {
+        "id": 1411,
+        "c": "Лесной Городок (Чита)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7462598233835,
+          113.067333984371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1412,
+      "properties": {
+        "id": 1412,
+        "c": "Емельяново (Красноярск)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1522856988583,
+          92.7309539794872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1413,
+      "properties": {
+        "id": 1413,
+        "c": "Иркутск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3726638336787,
+          104.069531249996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1414,
+      "properties": {
+        "id": 1414,
+        "c": "г. Жигулевск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.3734618891061,
+          49.4551208496063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1415,
+      "properties": {
+        "id": 1415,
+        "c": "Рамка на выезде из Черкесска на Пятигорск. Сразу после кольца."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2530997996356,
+          42.092083873685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1426,
+      "properties": {
+        "id": 1426,
+        "c": "рамка в Гостилово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3074533099345,
+          38.6005036928597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1427,
+      "properties": {
+        "id": 1427,
+        "c": "48.202300 *40.024004 координаты\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3379059706305,
+          39.7006347656236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1429,
+      "properties": {
+        "id": 1429,
+        "c": "Трасса Р216 \"Астрахань-Элиста\" 69 км, в сторону Элисты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3232339547891,
+          46.3267553401601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1430,
+      "properties": {
+        "id": 1430,
+        "c": "С.Старый Хопер"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4955430660296,
+          42.9645791821494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1431,
+      "properties": {
+        "id": 1431,
+        "c": "М2 У поста ДПС перед р.Ока"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8732559935656,
+          37.5019958496081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1432,
+      "properties": {
+        "id": 1432,
+        "c": "А107  за 2 км  перед М11 со стороны Рогачевского шоссе."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1081862668734,
+          37.1888854980461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1434,
+      "properties": {
+        "id": 1434,
+        "c": "Перед постом ГАИ, если ехать со стороны Армавира"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7685709195367,
+          41.5783530618197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1436,
+      "properties": {
+        "id": 1436,
+        "c": "Р217 на 329 км (около стоянки),р217 209 км на посту ДПС,р217 89 и 91км в г.Кропоткин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3087740229807,
+          42.9284712829731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1437,
+      "properties": {
+        "id": 1437,
+        "c": "п. Клюква"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7200179638806,
+          36.3597435681835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1438,
+      "properties": {
+        "id": 1438,
+        "c": "за заправкой татнефть в сторону Кургана"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2538190404305,
+          61.810094404214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1439,
+      "properties": {
+        "id": 1439,
+        "c": "250 метров от газпрома на север"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2998732150811,
+          68.3189922451928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1440,
+      "properties": {
+        "id": 1440,
+        "c": "327 км Тюмень-Сургут"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8228682499761,
+          68.9647796630812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1441,
+      "properties": {
+        "id": 1441,
+        "c": "31 км Нефтюганск-Сургут"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.1747435470179,
+          72.847949302225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1442,
+      "properties": {
+        "id": 1442,
+        "c": "Салым перед мостом 100м до переезда"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.0696136032065,
+          71.4649321960684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1443,
+      "properties": {
+        "id": 1443,
+        "c": "азс, жд переезд"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.7434984535724,
+          60.9985545158346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1446,
+      "properties": {
+        "id": 1446,
+        "c": "Ессентуки-Кисловодск в р-не Подкумок"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9652319113254,
+          42.7774932861306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1447,
+      "properties": {
+        "id": 1447,
+        "c": "Через 200 м после съезда с объездной дороги на дорогу Челябинск-Екатеринбург в сторону Екатеринбурга"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3793441900389,
+          61.3639695465652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1448,
+      "properties": {
+        "id": 1448,
+        "c": "Между деревней Сары и деревней Еманжелинка, перед развязкой на Еткуль со сторны Челябинска"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8156732804357,
+          61.308448814979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1450,
+      "properties": {
+        "id": 1450,
+        "c": "М5 Тюбук-Сысерть 117 км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1063242614015,
+          60.903467305383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1455,
+      "properties": {
+        "id": 1455,
+        "c": "Тюмень-Сургут , 1 км не доезжая до поворота на Сентябрьский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4686752374394,
+          72.346379759266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1457,
+      "properties": {
+        "id": 1457,
+        "c": "чуть не доезжая Донецка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3342434575689,
+          40.0487640380849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1459,
+      "properties": {
+        "id": 1459,
+        "c": "Трасса Р158, 311 метров от поворота (со светофором) на Рузаевку в сторону Пензы, рядом с АЗС \"Лукойл\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.0329347069441,
+          44.9030185763087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1461,
+      "properties": {
+        "id": 1461,
+        "c": "А310 \"Челябинск-Троицк\" 44 км направление Коркино-Еманжелинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8345314032833,
+          61.3123729705746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467,
+      "properties": {
+        "id": 1467,
+        "c": "Шумиха \n55°15′24.08″N, 63°15′56.82″E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2547260053178,
+          63.2635620117168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471,
+      "properties": {
+        "id": 1471,
+        "c": "мячково"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2296244348463,
+          42.8008392333955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1472,
+      "properties": {
+        "id": 1472,
+        "c": "Г.Цивильск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8546032657772,
+          47.4683725790523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476,
+      "properties": {
+        "id": 1476,
+        "c": "Софийская улица, на выезд из города"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.8142724895197,
+          30.4564292046146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477,
+      "properties": {
+        "id": 1477,
+        "c": "М7, 574 км + 448м направление Воротынец - Никольское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0119503169111,
+          46.0218933105456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1478,
+      "properties": {
+        "id": 1478,
+        "c": "на М5 в районе п.Суходол"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.894400441792,
+          51.2668350219672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1479,
+      "properties": {
+        "id": 1479,
+        "c": "М7, 574 км, направление Воротынец - Никольское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0028454103675,
+          46.0571631373612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1482,
+      "properties": {
+        "id": 1482,
+        "c": "1258 км трассы Кола. ( информация с квитанции о штрафе)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.8227871957132,
+          32.6583984374991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1484,
+      "properties": {
+        "id": 1484,
+        "c": "Перед развилкой на Красный Октябрь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5217833185289,
+          45.6305769852133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1485,
+      "properties": {
+        "id": 1485,
+        "c": "82 км Москва-Серпухов"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0449378120684,
+          37.5586058781887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1487,
+      "properties": {
+        "id": 1487,
+        "c": "М5 перед перекрестком  на Утёвку и Трофимовка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8755611893541,
+          50.9129980087238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1488,
+      "properties": {
+        "id": 1488,
+        "c": "179км за развязкой старый пост ДПС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8255028600101,
+          60.4774498767918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1489,
+      "properties": {
+        "id": 1489,
+        "c": "Между Галкино и Новоживотинное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.914093800447,
+          39.2179229736317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1493,
+      "properties": {
+        "id": 1493,
+        "c": "Перед ЕКАД на г.Пермь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8299941131663,
+          60.3757649498656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1494,
+      "properties": {
+        "id": 1494,
+        "c": "Сразу после съезда с объездной г.Тюмень на Тобольский тр-т"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1696808344762,
+          65.6952068150215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1495,
+      "properties": {
+        "id": 1495,
+        "c": "Перед поворотом на Пыть-Ях,не доезжая до объездной."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4821076170346,
+          72.358647179711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1496,
+      "properties": {
+        "id": 1496,
+        "c": "Зуова Щель"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8273989435694,
+          39.4297285263686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1497,
+      "properties": {
+        "id": 1497,
+        "c": "перед поворотом на хвалынск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5161598877472,
+          48.0193450927715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1498,
+      "properties": {
+        "id": 1498,
+        "c": "Сторожевка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6567755411944,
+          45.8185899496924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1501,
+      "properties": {
+        "id": 1501,
+        "c": "Р217 ,91км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3850447353702,
+          40.5479839861775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1502,
+      "properties": {
+        "id": 1502,
+        "c": "координат рамки 45.874747, 47.601506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8746637256183,
+          47.6011213182298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1503,
+      "properties": {
+        "id": 1503,
+        "c": "571 км от Москвы перед пос. Подгорное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4453848691898,
+          44.3175476402182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1507,
+      "properties": {
+        "id": 1507,
+        "c": "трасса р-158 поворот на Лопатино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3335826779856,
+          45.333831796671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1508,
+      "properties": {
+        "id": 1508,
+        "c": "После проезда АЗС BP на М10 505 км, 4 Новгородский район, Новгородская область, на развязке подъема на мост  стоит передвижной пункт. Координаты 58.516167, 31.674730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5161838304183,
+          31.6747143745385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1509,
+      "properties": {
+        "id": 1509,
+        "c": "Перед п. Новосельское со стороны Армавира"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9000524693606,
+          41.0144159388123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1510,
+      "properties": {
+        "id": 1510,
+        "c": "М10 \"Россия\", 223км+070м, направление Медное-Торжок, между поворотами на Гальков и Восход"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0112983357012,
+          35.0946166992163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1511,
+      "properties": {
+        "id": 1511,
+        "c": "Построили новую рамку, сквозная в обе стороны: М2 \"Крым\" 47км+020м, по направлению в москву после пересечения с А107 примерно через 1 км перед эстакадой, по направлению из москвы сразу после эстакады примерно за 1 км до пересечения с А107. По состоянию на"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3424803890797,
+          37.5849082946766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1512,
+      "properties": {
+        "id": 1512,
+        "c": "За развязкой на с.Городечное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6318486096336,
+          131.993612314047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1513,
+      "properties": {
+        "id": 1513,
+        "c": "рамка между с. Лесное и речкой (57.10886,41.013864)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1084748601956,
+          41.0129859924274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1972,
+      "properties": {
+        "id": 1972,
+        "c": "А 149 1,3км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4306632816491,
+          39.9472380638096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1974,
+      "properties": {
+        "id": 1974,
+        "c": "Куряты перед Нижнеудинском на мосту через ж.д."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.943252425334,
+          98.9517716080812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1975,
+      "properties": {
+        "id": 1975,
+        "c": "на въезде в Тулун недалеко стоянка и шиномонтаж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5755822122562,
+          100.530915355671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1976,
+      "properties": {
+        "id": 1976,
+        "c": "за Красноярском в сторону Канска,перед стоянкой три богатыря и заправкой Фортуна.Км не помню в машине записаны.+- 500м"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9829857866794,
+          93.2736946105864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1977,
+      "properties": {
+        "id": 1977,
+        "c": "перед тайшетом в сторону иркутска.За постом гаи 200м"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0028234675946,
+          97.8976727485569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1978,
+      "properties": {
+        "id": 1978,
+        "c": "Севрюково"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3445318459132,
+          37.542553026436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1979,
+      "properties": {
+        "id": 1979,
+        "c": "М-10 РОССИЯ,579-й километр, Чудовский район, Новгородская область"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.0977507946704,
+          31.6324937179584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1980,
+      "properties": {
+        "id": 1980,
+        "c": "А108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0952466053234,
+          38.6722179874138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1982,
+      "properties": {
+        "id": 1982,
+        "c": "Ногинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8567190753034,
+          38.5320223372785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1984,
+      "properties": {
+        "id": 1984,
+        "c": "По М5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4891291060408,
+          38.1551147460926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1986,
+      "properties": {
+        "id": 1986,
+        "c": "Ерзовка на Омск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8942446447533,
+          44.6187975057498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1988,
+      "properties": {
+        "id": 1988,
+        "c": "Клещевка Саратовская область на Омск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7471633184149,
+          46.0560938827441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1990,
+      "properties": {
+        "id": 1990,
+        "c": "Челябинск на ОМСК "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0433421272165,
+          61.6982282086809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1991,
+      "properties": {
+        "id": 1991,
+        "c": "Камышловский Омская область на камышин "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1168139627153,
+          73.0383171342381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1992,
+      "properties": {
+        "id": 1992,
+        "c": "не доезжая до развязки 10 км Анна -Воронеж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.478838018668,
+          39.6602416992165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1993,
+      "properties": {
+        "id": 1993,
+        "c": "Липецк, перед развязкой на Лебедянь (52.640953,39.536069)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.642460528065,
+          39.5383621215757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1995,
+      "properties": {
+        "id": 1995,
+        "c": "Между Северным и Новотроицким"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6211765156047,
+          40.5486322402931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1996,
+      "properties": {
+        "id": 1996,
+        "c": "А108 от Каширского ш до Симферопольского перед приблизительно за 3 км до поворота на Новый Быт"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0389655529267,
+          37.6783692589075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1999,
+      "properties": {
+        "id": 1999,
+        "c": "Торхово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2943606233391,
+          37.7740264892562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2000,
+      "properties": {
+        "id": 2000,
+        "c": "Поворот на Хавки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3381684237197,
+          38.1903911590543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2002,
+      "properties": {
+        "id": 2002,
+        "c": "ЗА 6 км ДО Г.Каменномостский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3214530587551,
+          40.1944519042941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2007,
+      "properties": {
+        "id": 2007,
+        "c": "Перед развязкой м4 Дон"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1822355862765,
+          40.3878069877558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2008,
+      "properties": {
+        "id": 2008,
+        "c": "Рамка на Выборгской окружной после Смирновской развязки, в сторону СПБ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7207092949328,
+          28.8441265582998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2009,
+      "properties": {
+        "id": 2009,
+        "c": "Чистые Ключи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.1643283786608,
+          103.950860595697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2011,
+      "properties": {
+        "id": 2011,
+        "c": "Чернышевск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5232584719254,
+          116.990945434566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2014,
+      "properties": {
+        "id": 2014,
+        "c": "Кругликово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0884578894128,
+          135.132119750971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2018,
+      "properties": {
+        "id": 2018,
+        "c": "Сысертский район. Пос. Октябрский 180-км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.6295411375355,
+          60.8135038113086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2019,
+      "properties": {
+        "id": 2019,
+        "c": "Р402 Ишим-Омск\n437км,770м\nширота 55.590856, долгота 71.304701\nжалобы отправлять в Называевский городской суд Омской области"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5747093474674,
+          71.3315940856883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2021,
+      "properties": {
+        "id": 2021,
+        "c": "поворот на Зею"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.166181861537,
+          126.42202148437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2022,
+      "properties": {
+        "id": 2022,
+        "c": "Васильевка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0412814224857,
+          115.930421447747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2025,
+      "properties": {
+        "id": 2025,
+        "c": "Сразу после развилки в шимановск в сторону хабаровска"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0247951011298,
+          127.736695647159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2026,
+      "properties": {
+        "id": 2026,
+        "c": "Култук"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7216362741032,
+          103.705172642041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2027,
+      "properties": {
+        "id": 2027,
+        "c": "Залари"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.5781219077808,
+          102.50902852159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2030,
+      "properties": {
+        "id": 2030,
+        "c": "рамка платон, в оба напр. новорижское ш.99км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8279860844636,
+          36.8887754406304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2031,
+      "properties": {
+        "id": 2031,
+        "c": "Трасса М2, 680 км. \nп. Майский, сразу за светофором в направлении на Харьков"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5205309178133,
+          36.4484907285004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2036,
+      "properties": {
+        "id": 2036,
+        "c": "Первомайский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1903802137245,
+          88.0248046874947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2037,
+      "properties": {
+        "id": 2037,
+        "c": "Белый Яр"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2894151799242,
+          90.3494430541955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2038,
+      "properties": {
+        "id": 2038,
+        "c": "Жестылево, 65км автодороги А 108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4049687875964,
+          37.643382778127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2041,
+      "properties": {
+        "id": 2041,
+        "c": "На выезде из Суворовского в сторону Кисловодска"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1725333476127,
+          42.6834345817518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2042,
+      "properties": {
+        "id": 2042,
+        "c": "224 км трассы Р22 Каспий, направление Михайлов - Скопин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1257190536565,
+          39.1769720077485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2043,
+      "properties": {
+        "id": 2043,
+        "c": "Черная речка. в две стороны. круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4054719739756,
+          84.9161029815639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2045,
+      "properties": {
+        "id": 2045,
+        "c": "Новая Шараповка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9903695466155,
+          72.7809310913057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2048,
+      "properties": {
+        "id": 2048,
+        "c": "Карапсель"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2248230651348,
+          95.8800292968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2051,
+      "properties": {
+        "id": 2051,
+        "c": "Гуран"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7504956440365,
+          100.637109374996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2052,
+      "properties": {
+        "id": 2052,
+        "c": "Если ехать от Мин. Вод. рамка стоит перед Бородыновкой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1516342093316,
+          43.1308914184527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2053,
+      "properties": {
+        "id": 2053,
+        "c": "с малиновка хабаровск-комсомольск на амуре15км"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.476586850326,
+          135.276733466917
+        ]
+      }
+    }
+  ]
+}
