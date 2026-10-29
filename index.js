@@ -16,6 +16,8 @@ function jqReady() {
     
     $("footer").on("click", "a.add", function(e){
         e.preventDefault();
+        map.toggleMode(2);
+        return;
 
         if(!addDialog) {
             addDialog = new jBox('Modal', {
@@ -41,7 +43,7 @@ function jqReady() {
             });
         }
         addIntroDialog.open();
-        map.toggleMode(2);
+        
     });
 
     $('form#add').ajaxForm( {target: 'form#add .result', clearForm:1 } ); 
@@ -78,7 +80,7 @@ function yMapsReady () {
         '<p>{{properties.c}}</p>'+
         '<ul>'+
             '<li class="report"><i class="fa fa-exclamation-triangle"></i>' + 
-            ' <a href="//docs.google.com/forms/d/e/1FAIpQLSf9nNh5pn5pDnwqC2_fNvJOpYtOtvFjhBOeDCxCMtouNfQY7Q/viewform?usp=pp_url&entry.5250015={{object.id}}, {{object.geometry.coordinates}}" target="_new"> Сообщить об ошибке</a>' +
+            ' <a href="//docs.google.com/forms/d/e/1FAIpQLSf9nNh5pn5pDnwqC2_fNvJOpYtOtvFjhBOeDCxCMtouNfQY7Q/viewform?usp=pp_url&entry.5250015={{object.id}}, {{object.geometry.coordinates}}" target="_new"> Ошибка?</a>' +
             '</ul>'+     
         '</div>'     
         
@@ -94,13 +96,14 @@ function yMapsReady () {
 
     // Чтобы задать опции одиночным объектам и кластерам,
     // обратимся к дочерним коллекциям ObjectManager.
-    pointsObjectManager.objects.options.set('preset', 'islands#blueIcon');
+    pointsObjectManager.objects.options.set('preset', 'islands#greyIcon');
     pointsObjectManager.clusters.options.set('preset', 'islands#blueClusterIcons');
     pointsObjectManager.objects.options.set('balloonContentLayout', BalloonContentLayout); 
 
 
     map.toggleMode = function(mode) {
         if(mode == 1) {
+            pointsObjectManager.objects.options.set('preset', 'islands#blueIcon');
             map.geoObjects.removeAll().add(pointsObjectManager); 
             map.setCenter([54.65395732812913, 73.55949067809733]);
             map.setZoom(4);
@@ -108,14 +111,19 @@ function yMapsReady () {
         }
 
         if(mode == 2) {
+            pointsObjectManager.objects.options.set('preset', 'islands#greyIcon');
+            pointsObjectManager.clusters.options.set('preset', 'islands#greyClusterIcons');
+
+            var currentCenter = map.getCenter(); 
+
             myPlacemark = new ymaps.GeoObject({
                 geometry: {
                     type: "Point",
-                    coordinates: [60.68, 61.35]
+                    coordinates: currentCenter
                 },
                 properties: {
-                    iconContent: "Перетащите и нажмите",
-                    hintContent: 'Перетащите в нужное место, затем нажмите на метку'
+                    iconContent: "Новая рамка",
+                    hintContent: 'Перетащите в нужное место'
                 }
             }, {
                 preset: 'islands#redStretchyIcon',
@@ -123,6 +131,8 @@ function yMapsReady () {
                 //balloonContentLayout: BalloonContentLayout 
             });
             myPlacemark.events.add('dragend', function (e) {
+                //myPlacemark.properties.set('iconContent', 'Updated Text');
+
                 c = e.get('target').geometry.getCoordinates();
                 $("form#add").find("c").text(c[0].toFixed(6) + " "+ c[1].toFixed(6));
                 $("form#add").find("input[name=lat]").val(c[0]);
@@ -132,9 +142,9 @@ function yMapsReady () {
                 addDialog.open();
             });
             
-            map.geoObjects.removeAll().add(myPlacemark);
-            map.setCenter([60.68, 61.35]);
-            map.setZoom(5);
+            map.geoObjects.add(myPlacemark);
+            //map.setCenter([60.68, 61.35]);
+            //map.setZoom(5);
             return;
         }
         

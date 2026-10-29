@@ -32,11 +32,24 @@
 	</div>
   	<footer>
 		<ul class="m">
+			<li style="color:grey"><i class="fa fa-plus" style="color:grey"></i><a class="add" href="#" target="_new">Добавить рамку</a></li>
 			<li style="color:grey"><i class="fa fa-github" style="color:grey"></i><a href="https://github.com/godsaveearth/GdePlaton/" target="_new">Github</a></li>
 			<li style="color:grey"><i class="fa fa-table" style="color:grey"></i><a href="https://docs.google.com/spreadsheets/d/1J1wAr67OcDT3E51TSTaTqKDKucS9QkIGTMlA5ATZrlQ/edit?usp=sharing" target="_new">Google Sheets</a></li>
 		</ul>
 	</footer>
-
+	
+	<div class="wrp">
+		<div class="map-box">
+			<h2>Предложить рамку</h2>
+			<p>Перетащите красную метку в нужное место.</p>
+			<p>Увеличьте масштаб, чтобы расположить ее точно.</p>
+			<p>На следующей странице можно ввести пояснения и ориентиры.</p>
+			<p>Координаты текущей точки: <span class="current_coords"><span></p>
+			<p><a href="#" class="proceed"> Дополнить и отправить</a> <i class="fa fa-table"></i></p>
+			<p><a href="#" class="cancel">Отмена</a></p>
+		</div>
+	</div>
+  	
   	<div id="map" style="height:100%">
   	</div>
 
@@ -44,9 +57,9 @@
 
 	<form id="addIntro" class="hidden popup form">
 		<h2>Предложить новую точку</h2>
-		<ol><li> Перетащите метку в нужное место карты. 
+		<ol><li>Перетащите метку в нужное место карты. 
 			<li>Увеличьте масштаб карты, чтобы указать точнее.
-			<li> Нажмите на свою метку, чтобы добавить описание рамки и закончить.
+			<li>Нажмите на свою метку, чтобы добавить описание рамки и закончить.
 			<li> <b>Не присылайте данные о машинах Платон (мобильных постах) — они не нужны!</b>		
 		</ol>
 		<a class="button close" href="#"/>Все понятно, приступить</a>

@@ -97,7 +97,7 @@ footer ul li {
 }
 footer ul li i {
 	color:white;
-  margin: 0 15px 0 0;   
+  margin: 0 5px 0 0;   
 }
 
 
@@ -210,6 +210,27 @@ footer li a:hover {
 
 .hidden {
   display:none;
+}
+
+
+.wrp {
+  /*max-width: 900px;*/
+  margin: 0 auto;
+  position: relative;
+}
+.map-box { 
+  position: absolute;
+  top: 70px;
+  right: 20px; 
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+  z-index: 100;
+  width: 250px;
+  box-shadow: -1px -1px 24px 0px rgba(50, 50, 50, 0.5);
+}
+.map-box p {
+  font-size: 18px;
 }
 
 
